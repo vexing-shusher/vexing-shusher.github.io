@@ -4,15 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<h1 class="year">2022</h1>
 
-*Journal Papers:*
+<ul style="list-style-type:circle;">
 
-<font color='red'>Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,</font>
-**K. Faghih Niresi**, and C.‑Y. Chi, \
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022 \
-(Under‑Review).
-
-
-<font color='red'>Hyperspectral 3D Tensor Completion via Low‑Rank Regularized Untrained Convolutional Neural Network, </font>
-**K. Faghih Niresi**, and C.‑Y. Chi,\
-(Under‑Preparation).
+ 
+ <li>Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution<br> <b>K. Faghih Niresi</b>, and C.‑Y. Chi, <br><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022 (Under-Review)</i> <br>
+ </li>
+  
+   <li>Hyperspectral 3D Tensor Completion via Low‑Rank Regularized Untrained Convolutional Neural Network<br> <b>K. Faghih Niresi</b>, and C.‑Y. Chi, <br><i>(Under-Preparation)</i> <br>
+ </li>
