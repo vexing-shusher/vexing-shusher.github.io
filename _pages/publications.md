@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+*Journal Papers:*
 
-{% include base_path %}
+[1] <font color='pink'>**Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,**</font>\
+**K. Faghih Niresi**, and C.‑Y. Chi, \
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022 \
+(Under‑Review).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+[2] <font color='pink'>**Hyperspectral 3D Tensor Completion via Low‑Rank Regularized Untrained Convolutional Neural Network,** </font>\
+**K. Faghih Niresi**, and C.‑Y. Chi,\
+(Under‑Preparation).
