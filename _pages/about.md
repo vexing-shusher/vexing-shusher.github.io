@@ -19,7 +19,11 @@ My name is Keivan Faghih Niresi (کیوان فقیه نیرسی). I am currently
 My research interests lie primarily in convex optimization, machine learning, signal processing and inverse problems, with applications in hyperspectral and medical imaging. <br> <br>
 I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
 
-
+<p align="center">
+  <img width="760" height="403" src="https://user-images.githubusercontent.com/107177894/173805849-1227dc10-6c2d-4058-9930-1588c93c2c08.png">
+</p>
+  
+  
 <h3> Education:</h3>
 <ul>
   <i class="fa fa-university" aria-hidden="true"></i> <b>National Tsing Hua University, Hsinchu, Taiwan</b> <br>
