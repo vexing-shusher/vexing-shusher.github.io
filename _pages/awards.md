@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 <ul>
-  <li><i class='fas fa-medal'></i> Selected as an Outstanding Speaker in the NTHU Foreign Student Association welcome conference 2021</li>
+  <li><i class='fas fa-medal'></i> Selected as an Outstanding Speaker in the NTHU Foreign Student Association welcome conference, 2021</li>
 
 
-  <li><i class='fas fa-medal'></i> Awarded M.Sc. Full Scholarship (Merit-Based) from the National Tsing Hua University (two times) 2020 & 2021</li>
+  <li><i class='fas fa-medal'></i> Awarded M.Sc. Full Scholarship (Merit-Based) from the National Tsing Hua University (two times), 2020 & 2021</li>
     <ul>
         <li> The highest award offered to NTHU international students </li>
   </ul>
   
-  <li><i class='fas fa-medal'></i> Ranked 1st among all undergraduate students of Communications Branch, Department of Electrical Engineering, University of Guilan, Class of 2015-2019.</li>
+  <li><i class='fas fa-medal'></i> Ranked 1st among all undergraduate students of Communications Branch, 2019</li>
     <ul>
         <li>  Department of Electrical Engineering, University of Guilan, 2019 </li>
     </ul>
