@@ -22,15 +22,15 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 
 <h3> Education:</h3>
 <ul>
-  <li> <b>National Tsing Hua University, Hsinchu, Taiwan</b>, </li>
-    Master of Science in Communications Engineering (2020 - Present) <br>
-    Advisor: <a href="https://scholar.google.com.tw/citations?user=QzDAeT8AAAAJ&hl=en" target="\_blank" style="color: #B509AC">  Prof. Chong-Yung Chi</a>
+  <li><i class="fa fa-university" aria-hidden="true"></i> <b>National Tsing Hua University, Hsinchu, Taiwan</b>, </li>
+    <i class="fa fa-graduation-cap" aria-hidden="true"></i> Master of Science in Communications Engineering (2020 - Present) <br>
+    <i class="fas fa-chalkboard-teacher"></i> Advisor: <a href="https://scholar.google.com.tw/citations?user=QzDAeT8AAAAJ&hl=en" target="\_blank" style="color: #B509AC">  Prof. Chong-Yung Chi</a>
 </ul>
 
 <ul>
-  <li> <b>University of Guilan, Rasht, Iran</b> </li>
-    Bachelor of Science in Electrical Engineering (2015 - 2019) <br>
-    Advisor: <a href="https://scholar.google.com/citations?user=cNXH4oIAAAAJ&hl=en" target="\_blank" style="color: #B509AC">  Prof. Gholamreza Baghersalimi</a>
+  <li><i class="fa fa-university" aria-hidden="true"></i> <b>University of Guilan, Rasht, Iran</b> </li>
+    <i class="fa fa-graduation-cap" aria-hidden="true"></i> Bachelor of Science in Electrical Engineering (2015 - 2019) <br>
+    <i class="fas fa-chalkboard-teacher"></i> Advisor: <a href="https://scholar.google.com/citations?user=cNXH4oIAAAAJ&hl=en" target="\_blank" style="color: #B509AC">  Prof. Gholamreza Baghersalimi</a>
 </ul>
  
 </p>
