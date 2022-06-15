@@ -34,3 +34,6 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 </ul>
  
 </p>
+<p align="center">
+  <img width="575" height="165" src="https://user-images.githubusercontent.com/107177894/173770795-eb3da7ca-b54a-4e73-b39a-3463288e6b70.png">
+</p>
