@@ -24,18 +24,11 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 </p>
   
   
-<h3> Education:</h3>
-<ul>
-  <i class="fa fa-university" aria-hidden="true"></i> <b>National Tsing Hua University, Hsinchu, Taiwan</b> <br>
-    <i class="fa fa-graduation-cap" aria-hidden="true"></i> Master of Science in Communications Engineering (2020 - Present) <br>
-    <i class="fas fa-chalkboard-teacher"></i> Advisor: <a href="https://scholar.google.com.tw/citations?user=QzDAeT8AAAAJ&hl=en" target="\_blank" style="color: #B509AC">  Prof. Chong-Yung Chi</a>
-</ul>
+## News
+- **May 2022:** I joined <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a> as a machine learning engineer intern!
+- **September 2020:** I joined the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications & Signal Processing (WCSP) Lab</a> as an M.Sc. student!
+- **September 2019:** I graduated from the University of Guilan!
 
-<ul>
-  <i class="fa fa-university" aria-hidden="true"></i> <b>University of Guilan, Rasht, Iran</b> <br>
-    <i class="fa fa-graduation-cap" aria-hidden="true"></i> Bachelor of Science in Electrical Engineering (2015 - 2019) <br>
-    <i class="fas fa-chalkboard-teacher"></i> Advisor: <a href="https://scholar.google.com/citations?user=cNXH4oIAAAAJ&hl=en" target="\_blank" style="color: #B509AC">  Prof. Gholamreza Baghersalimi</a>
-</ul>
  
 </p>
 <p align="center">
