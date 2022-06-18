@@ -29,7 +29,7 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 </header>
 
 
-- <p><span style="color: rgb(204, 204, 204);"><i class="fa fa-calendar" aria-hidden="true"></i> May 2022</span></p> <br> 
+<p><span style="color: rgb(204, 204, 204);"><i class="fa fa-calendar" aria-hidden="true"></i> May 2022</span></p> <br> 
 I joined <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a> as a machine learning engineer intern! <br>
 
 <p><span style="color: rgb(204, 204, 204);"><i class="fa fa-calendar" aria-hidden="true"></i> September 2020</span></p> <br> I joined the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications & Signal Processing (WCSP) Lab</a> as an M.Sc. student! <br>
