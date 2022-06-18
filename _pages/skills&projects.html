@@ -105,6 +105,50 @@ author_profile: true
 </head>
 <body>
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
 <p>Academic Projects & Assignments (Full List):</p>
 <button class="collapsible">MATLAB</button>
 <div class="content">
@@ -119,6 +163,7 @@ author_profile: true
     <li style="font-family: Calibri, sans-serif; font-size: 15px;"><span style="color: rgb(33, 33, 33);">Huffman-Coding Implementation for a Digital Transmitter<strong>&nbsp;(<em>Spring 2018)</em></strong></span></li>
     <li style="font-family: Calibri, sans-serif; font-size: 15px;"><span style="color: rgb(33, 33, 33);">Analyzing analog communication systems based on different modulations (e.g. AM, FM, and PM) <strong>(<em>Fall 2017)</em></strong></span></li>
     <li style="font-family: Calibri, sans-serif; font-size: 15px;"><span style="color: rgb(33, 33, 33);">RLC Circuits simulation by a transfer function, state-space equation and differential equation <strong>(<em>Fall 2017)</em></strong></span></li></p>
+    
 </div>
 <button class="collapsible">Python</button>
 <div class="content">
@@ -130,7 +175,6 @@ author_profile: true
   <p> <li style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif;"><span style="color: rgb(33, 33, 33);">Analyzing CSMA/CA Protocol in WLAN <strong>(<em>Spring 2019)</em></strong></span></li></p>
 </div>
 
-</div>
 <button class="collapsible">VHDL</button>
 <div class="content">
   <p>  <li style="font-family: Calibri, sans-serif; font-size: 15px;"><span style="color: rgb(33, 33, 33);">FPGA-based design and implementation of &quot;Spiky Fish&quot; as well as &quot;Flappy Bird&quot; <strong>(<em>Spring 2019)</em></strong></span></li>
@@ -141,7 +185,6 @@ author_profile: true
     <li style="font-family: Calibri, sans-serif; font-size: 15px;"><span style="color: rgb(33, 33, 33);">Various Priority Encoders and 7-segment Decoder Implementation <strong>(<em>Spring 2019)</em></strong></span></li></p>
 </div>
 
-</div>
 <button class="collapsible">OptiSystem</button>
 <div class="content">
   <p>    <li style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif;"><span style="color: rgb(33, 33, 33);">Performance evaluation of wavelength division multiplexing (WDM) in free-space optics and optical fiber <strong>(<em>Spring 2019)</em></strong></span></li></p>
@@ -166,6 +209,7 @@ for (i = 0; i < coll.length; i++) {
 
 </body>
 </html>
+
 
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family: Calibri, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px; font-family: Calibri, sans-serif;"><strong><span style="color: black;">Certifications (MOOC &amp; Workshops):</span></strong></span></p>
