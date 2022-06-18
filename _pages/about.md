@@ -25,9 +25,9 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
   
   
 ## News
-- **May 2022:** I joined <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a> as a machine learning engineer intern!
-- **September 2020:** I joined the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications & Signal Processing (WCSP) Lab</a> as an M.Sc. student!
-- **September 2019:** I graduated from the University of Guilan!
+- <b> May 2022:</b> I joined <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a> as a machine learning engineer intern! <br>
+- <b> September 2020:</b> I joined the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications & Signal Processing (WCSP) Lab</a> as an M.Sc. student! <br>
+- <b>September 2019:</b> I graduated from the University of Guilan!
 
  
 </p>
