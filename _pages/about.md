@@ -28,12 +28,13 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 <h1 class="post-title">News</h1>
 </header>
 
-<p><span style="color: rgb(130, 130, 130);"><i class="fa fa-calendar" aria-hidden="true"></i> May 2022:&nbsp;</span>I joined <a href="https://pranaq.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">&nbsp;PranaQ</a> as a machine learning engineer intern!</p>
-<p><span style="color: rgb(130, 130, 130);"><i class="fa fa-calendar" aria-hidden="true"></i> September 2020:&nbsp;</span>I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #B509AC; text-decoration:none;" target="\_blank">&nbsp;National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #B509AC; text-decoration:none;" target="\_blank">&nbsp;Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student!</p>
-<p><span style="color: rgb(130, 130, 130);"><i class="fa fa-calendar" aria-hidden="true"></i> September 2019:&nbsp;</span>I graduated from the University of Guilan!</p>
+<p><span style="color: rgb(130, 130, 130);"><i class="fa fa-calendar" aria-hidden="true"></i> May 2022:&nbsp;</span>I joined <a href="https://pranaq.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">&nbsp;PranaQ</a> as a machine learning engineer intern!
+  
+<span style="color: rgb(130, 130, 130);"><i class="fa fa-calendar" aria-hidden="true"></i> September 2020:&nbsp;</span>I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #B509AC; text-decoration:none;" target="\_blank">&nbsp;National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #B509AC; text-decoration:none;" target="\_blank">&nbsp;Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student!
+  
+<span style="color: rgb(130, 130, 130);"><i class="fa fa-calendar" aria-hidden="true"></i> September 2019:&nbsp;</span>I graduated from the University of Guilan!</p>
 
  
-</p>
 <p align="center">
   <img width="400" height="93" src="https://user-images.githubusercontent.com/107177894/173854088-79b62910-4180-4df9-b1b4-56420e6ff53e.png">
 </p>
