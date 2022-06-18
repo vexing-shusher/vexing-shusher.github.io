@@ -12,8 +12,5 @@ main:
   - title: "Skills & Projects"
     url: /projects/
     
-  - title: "Services"
-    url: /services/
-    
   - title: "CV"
     url: /cv/
