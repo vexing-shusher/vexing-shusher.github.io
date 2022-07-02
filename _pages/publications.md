@@ -15,14 +15,14 @@ author_profile: true
 </ul> <br>
 
  <p align="center">
-  <img width="500" height="221" src="https://user-images.githubusercontent.com/107177894/177000820-a4c0ccea-9dc6-4c0c-9291-4b6a46c9d587.png">
+  <img width="650" height="288" src="https://user-images.githubusercontent.com/107177894/177000820-a4c0ccea-9dc6-4c0c-9291-4b6a46c9d587.png">
 </p>
 
 <style>
 #more {display: none;}
 </style>
 
-<p><b>Abstract:</b> This paper considers the inverse problem under hyperspectral images (HSIs) denoising framework. Recently, it has been shown that deep learning is a promising approach to image denoising. However,<span id="dots">...</span><span id="more"> deep learning to be effective usually needs a massive amount of training data. Moreover, in a practical scenario, HSIs may get contaminated by different kinds of noises such as Gaussian and/or sparse noise. Lately, it has been reported that the convolutional neural network (CNN), the core element used by deep image prior (DIP), is able to capture image statistical characteristics without the need of training, i.e., restore the clean image blindly. Nonetheless, there exists some performance gap between DIP and state-of-the-art methods in HSIs (e.g., low-rank models). By applying the Huber loss function (HLF), which is derived through a least favorable distribution in robust statistics, to DIP, we propose a novel unsupervised denoising algorithm, referred as to the HLF-DIP, free from pre-training and without involving any regularizer. Extensive experimental results are provided to demonstrate that the proposed HLF-DIP algorithm significantly outperforms seven state-of-the-art algorithms in both complexity (thanks to no regularization) and robustness against complex noise (e.g., mixed types of noises).</span></p></span></p>
+<p><b>Abstract:</b> This paper considers the inverse problem under hyperspectral images (HSIs) denoising framework. Recently, it has been shown that deep learning is a promising approach to image denoising. However,<span id="dots">...</span><span id="more"> deep learning to be effective usually needs a massive amount of training data. Moreover, in a practical scenario, HSIs may get contaminated by different kinds of noises such as Gaussian and/or sparse noise. Lately, it has been reported that the convolutional neural network (CNN), the core element used by deep image prior (DIP), is able to capture image statistical characteristics without the need of training, i.e., restore the clean image blindly. Nonetheless, there exists some performance gap between DIP and state-of-the-art methods in HSIs (e.g., low-rank models). By applying the Huber loss function (HLF), which is derived through a least favorable distribution in robust statistics, to DIP, we propose a novel unsupervised denoising algorithm, referred as to the HLF-DIP, free from pre-training and without involving any regularizer. Extensive experimental results are provided to demonstrate that the proposed HLF-DIP algorithm significantly outperforms seven state-of-the-art algorithms in both complexity (thanks to no regularization) and robustness against complex noise (e.g., mixed types of noises).</span></p>
 <button onclick="myFunction()" id="myBtn">Read more</button>
 
 <script>
