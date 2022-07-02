@@ -10,7 +10,7 @@ author_profile: true
 
  
 <ul>
-    <li style=><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
+     <li><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
 <br><strong>K. F. Niresi</strong>, and C. -Y. Chi,<br><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022, doi: 10.1109/JSTARS.2022.3187722.</em></li>
 </ul> <br>
 
@@ -18,26 +18,8 @@ author_profile: true
   <img width="500" height="221" src="https://user-images.githubusercontent.com/107177894/177000820-a4c0ccea-9dc6-4c0c-9291-4b6a46c9d587.png">
 </p>
  
-<p><b>Abstract:</b> This paper considers the inverse problem under hyperspectral images (HSIs) denoising framework. Recently, it has been shown that deep learning is a promising approach to image denoising. However,<span id="dots">...</span><span id="more"> deep learning to be effective usually needs a massive amount of training data. Moreover, in a practical scenario, HSIs may get contaminated by different kinds of noises such as Gaussian and/or sparse noise. Lately, it has been reported that the convolutional neural network (CNN), the core element used by deep image prior (DIP), is able to capture image statistical characteristics without the need of training, i.e., restore the clean image blindly. Nonetheless, there exists some performance gap between DIP and state-of-the-art methods in HSIs (e.g., low-rank models). By applying the Huber loss function (HLF), which is derived through a least favorable distribution in robust statistics, to DIP, we propose a novel unsupervised denoising algorithm, referred as to the HLF-DIP, free from pre-training and without involving any regularizer. Extensive experimental results are provided to demonstrate that the proposed HLF-DIP algorithm significantly outperforms seven state-of-the-art algorithms in both complexity (thanks to no regularization) and robustness against complex noise (e.g., mixed types of noises).</span></p>
-<button onclick="myFunction()" id="myBtn">Read more</button>
+ <p><b>Abstract:</b> This paper considers the inverse problem under hyperspectral images (HSIs) denoising framework. Recently, it has been shown that deep learning is a promising approach to image denoising. However,<span id="dots">...</span><span id="more"> deep learning to be effective usually needs a massive amount of training data. Moreover, in a practical scenario, HSIs may get contaminated by different kinds of noises such as Gaussian and/or sparse noise. Lately, it has been reported that the convolutional neural network (CNN), the core element used by deep image prior (DIP), is able to capture image statistical characteristics without the need of training, i.e., restore the clean image blindly. Nonetheless, there exists some performance gap between DIP and state-of-the-art methods in HSIs (e.g., low-rank models). By applying the Huber loss function (HLF), which is derived through a least favorable distribution in robust statistics, to DIP, we propose a novel unsupervised denoising algorithm, referred as to the HLF-DIP, free from pre-training and without involving any regularizer. Extensive experimental results are provided to demonstrate that the proposed HLF-DIP algorithm significantly outperforms seven state-of-the-art algorithms in both complexity (thanks to no regularization) and robustness against complex noise (e.g., mixed types of noises).</span></p>
 
-<script>
-function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
-
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
-    moreText.style.display = "none";
-  } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
-    moreText.style.display = "inline";
-  }
-}
-</script> <br><br>
  
  <i class="fa fa-file" aria-hidden="true"> <a href="https://ieeexplore.ieee.org/document/9813381" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore </a> </i>
  
