@@ -40,7 +40,6 @@ has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observa
 </ul>
 
 
-<div style="width:600px">
   <a class="twitter-timeline" data-theme="light" href="https://twitter.com/KeivanFaghih?ref_src=twsrc%5Etfw">Tweets by KeivanFaghih</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     
  
