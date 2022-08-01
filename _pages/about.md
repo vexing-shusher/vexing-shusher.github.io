@@ -24,12 +24,13 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 </p>
  
  <div class="Featured Publications">
+  <h2>Featured Publications</h2>
 
 
 <table style="width:100%">
   <tr>
     <th>
-      <img src="https://user-images.githubusercontent.com/107177894/182073685-45815337-68c7-4ee8-81e6-b433ebb88095.png" width="350"/>
+      <img src="https://user-images.githubusercontent.com/107177894/182073685-45815337-68c7-4ee8-81e6-b433ebb88095.png" width="200"/>
     </th>
     <th style="text-align:left">
             Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution<br>
