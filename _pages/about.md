@@ -33,7 +33,8 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
     </th>
     <th style="text-align:left">
             Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution<br>
-            <span style="font-size:16px"><span style="font-weight:normal">Keivan Faghih Niresi</span>, and Chong-Yung Chi<span style="font-weight:normal"></span></span><br>
+      <b> Keivan Faghih Niresi </b>, and Chong-Yung Chi
+  </span><br>
             <span style="font-weight:normal;font-size:16px">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022</span><br>
             <span style="font-weight:normal;font-size:16px"><a href="https://ieeexplore.ieee.org/document/9813381">IEEE Xplore</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381">PDF</a> | <a href="">Code (coming soon)</a></span>
     </th>
