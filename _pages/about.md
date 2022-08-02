@@ -23,8 +23,24 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
   <img width="500" height="265" src="https://user-images.githubusercontent.com/107177894/173805849-1227dc10-6c2d-4058-9930-1588c93c2c08.png">
 </p>
  
- 
- <div class="News">
+<header class="post-header">
+<h2 class="post-title">Featured Publications</h2>
+</header>
+
+<table style="width:100%">
+  <tr>
+    <th>
+      <img src="https://user-images.githubusercontent.com/107177894/182073685-45815337-68c7-4ee8-81e6-b433ebb88095.png" width="200"/>
+    </th>
+    <th style="text-align:left">
+            Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution<br><br>
+            <span style="font-size:16px">Keivan Faghih Niresi<span style="font-weight:normal">, and Chong-Yung Chi</span></span><br><br>
+                        <span style="font-weight:normal;font-size:16px"><a href="https://ieeexplore.ieee.org/document/9813381">IEEE Xplore</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381">PDF</a> | <a href="">Code (Coming Soon)</a></span>
+    </th>
+  </tr>    
+</table>
+
+<div class="News">
 <h2>News</h2>
         <ul>
           <li><b>June 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
@@ -38,7 +54,7 @@ has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observa
           
 <hr/>
 </ul>
-
+</div>
     
  
 <p align="center">
