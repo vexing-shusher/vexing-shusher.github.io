@@ -33,9 +33,9 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
       <img src="https://user-images.githubusercontent.com/107177894/182073685-45815337-68c7-4ee8-81e6-b433ebb88095.png" width="200"/>
     </th>
     <th style="text-align:left">
-            Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution<br><br>
-            <span style="font-size:16px">Keivan Faghih Niresi<span style="font-weight:normal">, and Chong-Yung Chi</span></span><br><br>
-                        <span style="font-weight:normal;font-size:16px"><a href="https://ieeexplore.ieee.org/document/9813381">IEEE Xplore</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381">PDF</a> | <a href="">Code (Coming Soon)</a></span>
+             <span style="font-size:14px">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution</span><br><br>
+            <span style="font-size:13px">Keivan Faghih Niresi<span style="font-weight:normal">, and Chong-Yung Chi</span></span><br><br>
+                        <span style="font-weight:normal;font-size:13px"><a href="https://ieeexplore.ieee.org/document/9813381">IEEE Xplore</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381">PDF</a> | <a href="">Code (Coming Soon)</a></span>
     </th>
   </tr>    
 </table>
