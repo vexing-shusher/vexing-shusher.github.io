@@ -45,5 +45,5 @@ function myFunction() {
 
 
  
-<p><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/document/9813381" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fas fa-github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a></p>
+<p><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/document/9813381" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fa-brands fa-github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a></p>
  
