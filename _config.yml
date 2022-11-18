@@ -86,8 +86,8 @@ author:
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.tw/citations?hl=en&user=3qQfrzwAAAAJ"
-  email            : "keyvan.faghih@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=St2T8QkAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "e.dejband@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "keiv4n"
+  github           : "ErfanDejband"
   google_plus      :
   keybase          :
   instagram        : #""
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "keivan-faghih"
-  orcid            : "http://orcid.org/0000-0003-0311-5877"
+  linkedin         : "www.linkedin.com/in/erfan-dejband"
+  orcid            : "https://orcid.org/0000-0002-0620-4536"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KeivanFaghih"
+  twitter          : #"KeivanFaghih"
   vine             :
   weibo            :
   xing             :
