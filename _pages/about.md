@@ -15,12 +15,12 @@ redirect_from:
 
 
 <p> Hello and thanks for stopping by! <br> <br>
-My name is Erfan Dejband (عرفان دژبند). I am currently a Ph.D. student in the College of Electrical Engineering and Computer Science at the <a href="https://www-en.ntut.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  national taipei university of technology (taipei Tech)</a>. I joined the <a href="https://labs.ee.ntut.edu.tw/lab416/" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications Lab </a>  under the supervision of <a href="https://www.ee.ntut.edu.tw/English/teacher/teacher2.php?tsn=43" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Tan-Hsu Tan</a> (IEEE Fellow) in spring 2021 and ***. <br> <br>
-My research interests lie primarily in convex optimization, machine learning, signal processing and inverse problems, with applications in hyperspectral and medical imaging. <br> <br>
+My name is Erfan Dejband (عرفان دژبند). I am currently a Ph.D. student in the College of Electrical Engineering and Computer Science at the <a href="https://www-en.ntut.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  national taipei university of technology (taipei Tech)</a>. I joined the <a href="https://labs.ee.ntut.edu.tw/lab416/" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications Lab </a>  under the supervision of <a href="https://www.ee.ntut.edu.tw/English/teacher/teacher2.php?tsn=43" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Tan-Hsu Tan</a> in spring 2021 and joined to the <a href="https://eo.ntut.edu.tw/p/412-1069-12931.php?Lang=zh-tw" target="\_blank" style="color: #B509AC; text-decoration:none">  Optoelectronic Signal Processing Lab </a>  under the co-supervision of <a href="https://scholar.google.com/citations?hl=en&user=H_iNBAgAAAAJ" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Peng-Chun Peng </a> in fall 2021  <br> <br>
+My research interests lie primarily in application of Deep learning in optoelectronic such as: invese design of metamaterials, Optic sesing based on Deep learning, and THz metasurface invese design. <br> <br>
 I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
 
 <p align="center">
-  <img width="500" height="265" src="https://user-images.githubusercontent.com/107177894/173805849-1227dc10-6c2d-4058-9930-1588c93c2c08.png">
+  <img width="500" height="265" src="https://www.researchgate.net/profile/Sina-Beyraghi/publication/350459222/figure/fig2/AS:1006930659115011@1617082385485/Sketch-representation-of-the-design-process-of-DNN-based-approach-for-metasurface-inverse.png">
 </p>
  
 <header class="post-header">
