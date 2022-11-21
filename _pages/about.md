@@ -20,7 +20,7 @@ My research interests lie primarily in application of Deep learning in optoelect
 I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
 
 <p align="center">
-  <img width="500" height="265" src="https://www.researchgate.net/profile/Sina-Beyraghi/publication/350459222/figure/fig2/AS:1006930659115011@1617082385485/Sketch-representation-of-the-design-process-of-DNN-based-approach-for-metasurface-inverse.png">
+  <img width="500" height="265" src="https://www.securityindustry.org/wp-content/uploads/2019/02/blog-machines-learning.jpg">
 </p>
  
 <header class="post-header">
@@ -30,13 +30,13 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 <table style="width:100%">
   <tr>
     <th>
-      <img src="https://user-images.githubusercontent.com/107177894/182388219-1e29d2ee-1e24-457b-8d6e-f472bc39e956.png" width="200"/>
+      <img src="https://www.mdpi.com/photonics/photonics-09-00869/article_deploy/html/images/photonics-09-00869-g001-550.jpg" width="200"/>
     </th>
     <th style="text-align:left">
-             <span style="font-size:14px">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution</span><br><br>
-            <span style="font-size:13px">Keivan Faghih Niresi<span style="font-weight:normal">, and Chong-Yung Chi</span></span><br><br>
-     <span style="font-weight:normal;font-size:13px">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022</span><br><br>
- <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/document/9813381" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a> | <i class="fas fa-globe" style="color:brown"></i> <a href="https://openremotesensing.net/knowledgebase/unsupervised-hyperspectral-denoising-based-on-deep-image-prior-and-least-favorable-distribution/" style="color:brown; text-decoration:none;" target="\_blank">Open Remote Sensing</a></span>
+             <span style="font-size:14px">Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning</span><br><br>
+            <span style="font-size:13px">Erfan Dejband<span style="font-weight:normal">,Jyun-Wei Li, Peng-Chun Peng, and Tan-Hsu Tan</span></span><br><br>
+     <span style="font-weight:normal;font-size:13px">IEEE Wireless and Optical Communications Conference (WOCC), 2021</span><br><br>
+ <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: red; text-decoration:none;" target="\_blank">PDF</a> |  <i class="fas fa-globe" style="color:brown"></i> <a href="https://openremotesensing.net/knowledgebase/unsupervised-hyperspectral-denoising-based-on-deep-image-prior-and-least-favorable-distribution/" style="color:brown; text-decoration:none;" target="\_blank">Open Remote Sensing</a></span>
     </th>
   </tr>    
 </table>
