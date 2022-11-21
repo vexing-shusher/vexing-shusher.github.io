@@ -39,7 +39,7 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
  <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: red; text-decoration:none;" target="\_blank">PDF</a>
     </th>
   </tr>    
-
+</table>
 <table style="width:100%">
   <tr>
     <th>
