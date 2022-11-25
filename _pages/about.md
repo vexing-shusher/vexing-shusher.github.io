@@ -37,9 +37,9 @@ My research interests lie primarily in application of Deep learning in optoelect
 </div>
     
  
-<p align="center">
+<!--<p align="center">
   <img width="400" height="93" src="https://user-images.githubusercontent.com/107177894/173854088-79b62910-4180-4df9-b1b4-56420e6ff53e.png">
-</p>
+</p>-->
 
   <p align="center">
   <a href="https://info.flagcounter.com/Wzvz"><img src="https://s01.flagcounter.com/count2/Wzvz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_100/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
