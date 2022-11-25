@@ -23,13 +23,13 @@ My research interests lie primarily in application of Deep learning in optoelect
   <img width="500" height="265" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/about_gif.gif?raw=true">
 </p>
  
-<div class="News">
+<div class="News"><i class='fas fa-newspaper'></i>
 <h2>News</h2>
         <ul>
-          <li align="justify"><b>July 2022:</b> I started my research as a research assistant in <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a> and <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> </li>
-           <li align="justify"><b>September 2022:</b> I joined the <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a> and <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> as an M.Sc. student. </li>
-          <li align="justify"><b>September 2022:</b> My research paper, "Numerical study of magnetic hyperthermia ablation of breast tumor on an anatomically realistic breast phantom", is published in the <b>Plos One</b> journal. </li>
-          <li align="justify"><b>October 2022:</b> I started my work in <a href="https://www.shl-medical.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">SHL Medical</a> as a "simulation engineer" intern. </li>
+          <li align="justify"><b>November 2022:</b> My research paper, <i>"Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System"</i>, is published in the <b>Photonics</b> journal. </li>
+          <li align="justify"><b>October 2021:</b> My research paper, <i>"Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning"</i>, is published in the <b>IEEE Wireless and Optical Communications Conference (WOCC)</b> journal. </li>
+           <li align="justify"><b>March 2021:</b> I joined the <a href="https://scholar.google.com/citations?hl=en&user=H_iNBAgAAAAJ" style="color: #B509AC; text-decoration:none;" target="\_blank">Prof. Peng-Chun Peng Lab at <a href="https://eo.ntut.edu.tw/p/412-1069-12931.php?Lang=zh-tw" target="\_blank" style="color: #B509AC; text-decoration:none">  Optoelectronic Signal Processing Lab </a>. </li>
+          <li align="justify"><b>February 2021:</b> I started my research as a Ph.D in <a href="https://www.ntut.edu.tw" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taipei University of Technology (Taipei Tech)</a> and joined to <a href="https://labs.ee.ntut.edu.tw/lab416/" style="color: #B509AC; text-decoration:none;" target="\_blank">Wireless Communications Lab</a> </li>
 
           
 <hr/>
