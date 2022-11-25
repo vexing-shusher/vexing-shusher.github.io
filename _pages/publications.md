@@ -232,7 +232,7 @@ function myFunction6() {
 }
 </script>
 
-<h1 class="year">2017</h1>
+<h1 class="year">2016</h1>
 
  <ul>
      <li><a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: #B509AC; text-decoration:none;" target="\_blank">Multi resonance perfect absorber based on graphene micro ribbons</a>
@@ -252,11 +252,11 @@ function myFunction6() {
  </script>
  
  <p align="center">
-  <img width="596" height="800" src="https://user-images.githubusercontent.com/117890455/202745589-11681318-9c29-437a-a951-ba8f9edb4984.jpg">
+  <img width="450" height="450" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs6.png?raw=true">
 </p>
 
 
-<p align="justify"><b>Abstract:</b> In this research, the effect of adding (inner or outer) transverse and longitudinal grooves on the energy absorption characteristics of cylindrical aluminium tubes has been studied experimentally and numerically. In the beginning, the samples were simulated by LS-Dyna software. Then, the most efficient samples in terms of the amount of specific energy were tested to verify the results of the simulation. In the experiments, 13 samples were tested and to ensure the results, the test was repeated for each sample. It was observed that creating a transverse groove lead to 15% reduction in the maximum collapse force. It was also observed that the creation of longitudinal grooves lead to the reduction of the maximum collapse force. So that with more longitudinal grooves, the reduction of the specific energy and maximum force will be greater. According to the results, specific energy of the samples with one transverse groove in the upper part of the tube was higher than the samples with a transverse groove at the bottom of the tube. The results showed that samples with both transverse and longitudinal internal grooves had more specific energy compared to similar samples with external grooves.</p></span></ul>
+<p align="justify"><b>Abstract:</b> Metamaterial-based perfect absorbers are used in many applications like photo-detectors, sensors, special light modulators, wireless communications and photovoltaic. The mechanism of absorption is based on the complete suppression of reflection and transmission of incident wave. Here we present a multi resonances perfect absorber made of Graphene micro-ribbons that each ribbons have different values of chemical potential witch brought us tunability, which by changing the value of chemical potential for each ribbon we can change the frequency of resonances independently and we can achieve to a tunable bandwidth. In the following the results for reflection and absorption from simulation are presented. Finally an equivalent circuit model is proposed for our structure and shown to very accurately predict the element absorption.</p></span></ul>
 
 <script>
 function myFunction7() {
