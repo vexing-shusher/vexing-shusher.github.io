@@ -194,7 +194,7 @@ function myFunction5() {
 </a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8120446&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgxMjA0NDY=" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8120446&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgxMjA0NDY=" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction6()" id="myBtn5">Show Abstract</button></p>
  
 
  
@@ -240,7 +240,7 @@ function myFunction6() {
 </a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://raw.githubusercontent.com/ErfanDejband/ErfanDejband.github.io/master/files/Multi%20resonance%20perfect%20absorber%20based%20on%20graphene%20micro%20ribbons.pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://raw.githubusercontent.com/ErfanDejband/ErfanDejband.github.io/master/files/Multi%20resonance%20perfect%20absorber%20based%20on%20graphene%20micro%20ribbons.pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction7()" id="myBtn5">Show Abstract</button></p>
  
 <span id="dots7"></span><span id="more7">
  
@@ -252,7 +252,7 @@ function myFunction6() {
  </script>
  
  <p align="center">
-  <img width="450" height="450" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs6.png?raw=true">
+  <img width="250" height="250" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs6.png?raw=true">
 </p>
 
 
