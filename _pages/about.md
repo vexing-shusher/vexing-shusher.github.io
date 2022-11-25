@@ -40,6 +40,7 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
     </th>
   </tr>    
 </table>
+
 <div class="News">
 <h2>News</h2>
         <ul>
