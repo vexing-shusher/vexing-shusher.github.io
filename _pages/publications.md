@@ -14,7 +14,7 @@ author_profile: true
 <br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <b> DIO: </b><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/photonics9110869</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fa-solid fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
