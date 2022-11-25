@@ -148,7 +148,7 @@ function myFunction4() {
 </a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: blue; text-decoration:none;" target="\_blank">IEEE</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661233&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMzM=" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661233&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMzM=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
 
  
@@ -162,11 +162,11 @@ function myFunction4() {
  </script>
  
  <p align="center">
-  <img width="688" height="296" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs4.png?raw=true">
+  <img width="850" height="296" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs4.png?raw=true">
 </p>
 
 
-<p align="justify"><b>Abstract:</b> Recently Controlling the electromagnetic wave, especially in terahertz range is highly demanded due to the development of practical devices and application systems. In this paper, we propose a scheme to design tunable abnormal reflection structure consisting of molybdenum disulfide (MoS 2 ) array on a grounded SiO 2 and a gold layer beneath them to reflect the terahertz wave. In this structure, MoS 2 can be controlled by intrinsic carrier density or voltage bias, to control the electromagnetic reflected beam at terahertz frequency. By adjusting the geometric dimensions of the MoS 2 elements, the reflection phase can cover the range of 0-2π with linear phase shift, thus abrupt phase shifts can be introduced to design the reflected wavefront. Furthermore, the reflective phase gradient over the structure can be switched by controlling the intrinsic carrier density or voltage bias of the MoS 2 , hence reflected beam directions can be switched dynamically. The proposed scheme will bring much freedom in the design of beam manipulation devices and may be applied to terahertz radiation control. Numerical simulations verify the Snell's law generalized at working frequency and far field scattering illustrate the abnormal reflection..</p></span></ul>
+<p align="justify"><b>Abstract:</b> Recently Controlling the electromagnetic wave, especially in terahertz range is highly demanded due to the development of practical devices and application systems. In this paper, we propose a scheme to design tunable abnormal reflection structure consisting of molybdenum disulfide (MoS 2 ) array on a grounded SiO 2 and a gold layer beneath them to reflect the terahertz wave. In this structure, MoS 2 can be controlled by intrinsic carrier density or voltage bias, to control the electromagnetic reflected beam at terahertz frequency. By adjusting the geometric dimensions of the MoS 2 elements, the reflection phase can cover the range of 0-2π with linear phase shift, thus abrupt phase shifts can be introduced to design the reflected wavefront. Furthermore, the reflective phase gradient over the structure can be switched by controlling the intrinsic carrier density or voltage bias of the MoS 2 , hence reflected beam directions can be switched dynamically. The proposed scheme will bring much freedom in the design of beam manipulation devices and may be applied to terahertz radiation control. Numerical simulations verify the Snell's law generalized at working frequency and far field scattering illustrate the abnormal reflection.</p></span></ul>
 
 <script>
 function myFunction5() {
@@ -186,13 +186,15 @@ function myFunction5() {
 }
 </script>
 
+<h1 class="year">2017</h1>
 
 <ul>
-     <li><a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical modeling of breast cancer diagnosis with microwave thermo-acoustic imaging </a>
-<br>Madjid Soltani, <strong>Reza Rahpeima</strong>, Farshad Moradi Kashkooli, Adel Alipoor, and Pouya Torkaman<br><em>Modares Mechanical Engineering, 2019.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: #B509AC; text-decoration:none;" target="\_blank">Tunable electromagnetic interference shield using periodic graphene-based structures in the terahertz regime </a>
+<br>Madjid Soltani, <strong> Erfan Dejband</strong>, Hamidreza Karami, Manouchehr Hosseini<br><em>International Conference on Circuits, Devices and Systems (ICCDS), 2017,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/MMWaTT.2018.8661233
+</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: blue; text-decoration:none;" target="\_blank">Tarbiat Modares University Press</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037073/Tarbiat.Modares.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction6()" id="myBtn6">Show Abstract</button></p>
+<p><i class="fas fa-crown" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8120446&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgxMjA0NDY=" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
 
  
@@ -206,11 +208,11 @@ function myFunction5() {
  </script>
  
  <p align="center">
-  <img width="825" height="215" src="https://user-images.githubusercontent.com/117890455/202599964-63ca7d25-1720-493c-a66b-cd33021e8be8.png">
+  <img width="650" height="400" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs5.png?raw=true">
 </p>
 
 
-<p align="justify"><b>Abstract:</b> Microwave-induced thermo-acoustic imaging (TAI) is an imaging technique with a great potential in detecting breast cancer at early stages. This technique combines the advantages of both microwave and ultrasound imaging. In this technique, image construction is based on the acoustic waves which are produced in the tissue due to irradiation of microwave pulses on it. Due to multi-physics nature of this phenomenon, the capability and feasibility of a numerical simulation method which can solve this problem consistently, investigated with performing a two dimensional simulation of TAI. In this simulation, a biological tissue including a tumor is considered in a rectangular duct (waveguide) under irradiation of pulsed 2.45 GHz microwave source. The generated heat in the biological tissue due to electromagnetic waves irradiation and the corresponding pressure gradient in the tissue due to the temperature variations are evaluated. It is then studied for different power levels of microwave sources for identifying required power level for producing thermo-acoustic signals. Simulation results show a minuscule rise in temperature as a result of the absorption of pulsed microwave energy, for example, 0.004743°C temperature increment in the center of the tumor, due to excitation pulse of 1000 W, 200 μs. This small temperature variation in tumor, produce several kPa of pressure variations, 0.02759 kPa pressure difference at the interface of tumor and breast tissue. This pressure variation will produce acoustic signals, which can be detected with array of transducers and used for construction of image.</p></span></ul>
+<p align="justify"><b>Abstract:</b> The demand for band broadening in communication devices has caused designing electronic circuits to draw numerous attentions among the research community. Recently, designing and implementation of electronic circuits have been developed in the THz and optical frequencies to achieve ultrafast responses. Thus, electromagnetic interference shields due to its protection effects against disturbances caused by adjacent elements have emerged as a vital issue in THz circuit designing. In this paper, two types of electromagnetic shields are proposed in the THz regime and shielding effectiveness calculated by using transmission line model. Comparisons indicate that the results obtained from the proposed method are in high accordance with those of CST-MWS commercial software..</p></span></ul>
 
 <script>
 function myFunction6() {
