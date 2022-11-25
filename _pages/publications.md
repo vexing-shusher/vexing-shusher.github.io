@@ -11,7 +11,7 @@ author_profile: true
 
  <ul>
      <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System </a>
-<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank">https://doi.org/10.3390/photonics9110869</a>.</em></li>
+<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank"><b> DIO: </b> 10.3390/photonics9110869</a>.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
@@ -53,7 +53,7 @@ function myFunction() {
 
  <ul>
      <li><a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #B509AC; text-decoration:none;" target="\_blank">Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning </a>
-<br><strong>Erfan Dejband</strong>,Jyun-Wei Li, Peng-Chun Peng, Tan-Hsu Tan<br><em>Wireless and Optical Communications Conference (WOCC), 2021,<a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/WOCC53213.2021.9602997</a>.</em></li>
+<br><strong>Erfan Dejband</strong>,Jyun-Wei Li, Peng-Chun Peng, Tan-Hsu Tan<br><em>Wireless and Optical Communications Conference (WOCC), 2021,<a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #091AB5; text-decoration:none;" target="\_blank"><b>DIO:</b> 10.1109/WOCC53213.2021.9602997</a>.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036917/Numerical.anatomically.realistic.breast.phantom.pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
@@ -70,19 +70,11 @@ function myFunction() {
  </script>
  
  <p align="center">
-  <img width="829" height="348" src="https://user-images.githubusercontent.com/117890455/202101351-60b38abc-ed8c-4ba4-8fa7-9b621763c5d1.jpg">
+  <img width="829" height="348" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs2.png?raw=true">
 </p>
 
 
-<p align="justify"><b>Abstract:</b> <br>
-<i>Background and objective</i><br>
-Microwave-induced thermoacoustic imaging (MITAI) represents an innovative imaging approach for detection of breast cancer at initial phases by integrating the benefits provided by procedures of microwave and ultrasound imaging. The present investigation examines an innovative three-dimensional numerical modeling of MITAI as a problem with multi-physics nature.<br>
-<i>Methods</i><br>
-Simulations are performed by the use of COMSOL software. An anatomically realistic breast phantom representing various parts of a real breast, such as three different types of tissue, fibro-connective/glandular, transitional; and fatty, is taken into consideration along with a tumor. This breast phantom with a tumor is irradiated by a 2.45 GHz pulsed rectangular waveguide. The temperature increase and its consequent pressure caused by electromagnetic absorption are analyzed.<br>
-<i>Results</i><br>
-More temperature increase occurs in the tumor area than in the other parts of the breast, the fact which results in further increase in the pressure in the tumor area than other parts. This makes the tumor distinguishable. The ability of the MITAI process regarding the tumor size, shape (both geometrical shape and spatial orientation), location, the irradiation power level, and the pulse width is also investigated. It is demonstrated that tumor size does not have a significant impact on the efficiency of detection. In fact, very small tumors in the early stages of cancer development (with a radius of 0.25 cm) are also detectable by employing the MITAI technique. The geometrical shape of the tumor does not considerably affect the detecting performance just by itself. The spatial orientation of the tumor actually has a great impact on it. The location of the tumor is an essential factor involved in detection efficiency of MITAI. Tumors located in the fatty tissues would be much easier to be detected than those in the glandular tissues. Moreover, results denote that with augmentation of the irradiation power level or increasing the pulse width, stronger acoustic waves would be produced to make tumor detection easier.<br>
-<i>Conclusion</i><br>
-These modeling and techniques may be applied aiming for determination of the amount of the generated pressure differences and acoustic pressure magnitude, and can be utilized as an effective prognosticator in practical tests.</p></span></ul>
+<p align="justify"><b>Abstract:</b> This paper presents a new method based on the neural network for predicting the absorption of the THz Graphene-based metasurface structure and inversely designing the structure based on desired absorption spectrum. the absorption spectra have been computed for different values of structure’s parameters. A neural network is trained to predict the absorption of the structure for any random value of the structure parameters with high accuracy and less time-consuming. Moreover, the well-trained neural network can perform the inverse design of the structure based on the desired absorption spectrum. Finally, the performances of various deep learning algorithms are demonstrated.</p></span></ul>
 
 <script>
 function myFunction3() {
@@ -106,11 +98,11 @@ function myFunction3() {
 <h1 class="year">2019</h1>
 
   <ul>
-     <li><a href="https://link.springer.com/article/10.1007/s11517-019-01961-8" style="color: #B509AC; text-decoration:none;" target="\_blank">Breast cancer diagnosis with a microwave thermoacoustic imaging technique—a numerical approach </a>
-<br>Madjid Soltani,<strong>Reza Rahpeima</strong>, and Farshad Moradi Kashkooli,<br><em>Medical & Biological Engineering & Computing, 2019, doi:10.1007/s11517-019-01961-8.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #B509AC; text-decoration:none;" target="\_blank">Antenna coupled GaN-based pulsed THz emitter array, enhanced with nono-slit plasmonic waveguide modes</a>
+      <br>Pouya Torkaman, Sara Darbari, Mohammad Javad Mohammad-Zamani, <strong>Erfan Dejband</strong>, Mohsen Heidari<br><em>International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2019, <a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #091AB5; text-decoration:none;" target="\_blank"><b>DIO:</b> 10.1109/MMWaTT.2018.8661229</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s11517-019-01961-8" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036940/Breast.cancer.diagnosis.with.a.microwave.thermoacoustic.imaging.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction4()" id="myBtn4">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661229&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMjk=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction4()" id="myBtn4">Show Abstract</button></p>
  
 
  
