@@ -11,7 +11,7 @@ author_profile: true
 
  <ul>
      <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System </a>
-<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank"><b> DIO: </b> 10.3390/photonics9110869</a>.</em></li>
+<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <b> DIO: </b><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/photonics9110869</a>.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
@@ -23,7 +23,7 @@ author_profile: true
 <span id="dots"></span><span id="more">
  
  <p align="center">
-  <img width="603" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
+  <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
 </p>
 
 
@@ -53,10 +53,10 @@ function myFunction() {
 
  <ul>
      <li><a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #B509AC; text-decoration:none;" target="\_blank">Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning </a>
-<br><strong>Erfan Dejband</strong>,Jyun-Wei Li, Peng-Chun Peng, Tan-Hsu Tan<br><em>Wireless and Optical Communications Conference (WOCC), 2021,<a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #091AB5; text-decoration:none;" target="\_blank"><b>DIO:</b> 10.1109/WOCC53213.2021.9602997</a>.</em></li>
+<br><strong>Erfan Dejband</strong>,Jyun-Wei Li, Peng-Chun Peng, Tan-Hsu Tan<br><em>Wireless and Optical Communications Conference (WOCC), 2021,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.1109/WOCC53213.2021.9602997</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036917/Numerical.anatomically.realistic.breast.phantom.pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9602997&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk2MDI5OTc=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
  
 
  
@@ -95,11 +95,11 @@ function myFunction3() {
 </script>
 
  
-<h1 class="year">2019</h1>
+<h1 class="year">2018</h1>
 
   <ul>
      <li><a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #B509AC; text-decoration:none;" target="\_blank">Antenna coupled GaN-based pulsed THz emitter array, enhanced with nono-slit plasmonic waveguide modes</a>
-      <br>Pouya Torkaman, Sara Darbari, Mohammad Javad Mohammad-Zamani, <strong>Erfan Dejband</strong>, Mohsen Heidari<br><em>International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2019, <a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #091AB5; text-decoration:none;" target="\_blank"><b>DIO:</b> 10.1109/MMWaTT.2018.8661229</a>.</em></li>
+      <br>Pouya Torkaman, Sara Darbari, Mohammad Javad Mohammad-Zamani, <strong>Erfan Dejband</strong>, Mohsen Heidari<br><em>International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2018,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.1109/MMWaTT.2018.8661229</a>.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661229" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661229&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMjk=" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction4()" id="myBtn4">Show Abstract</button></p>
@@ -116,11 +116,11 @@ function myFunction3() {
  </script>
  
  <p align="center">
-  <img width="818" height="428" src="https://user-images.githubusercontent.com/117890455/202596670-a22c2470-2fd5-4df4-a583-e999e82911f9.png">
+  <img width="850" height="428" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs3.png?raw=true">
 </p>
 
 
-<p align="justify"><b>Abstract:</b> Microwave-induced thermoacoustic imaging (MITAI) is an imaging technique with great potential for detecting breast cancer at early stages. Thermoacoustic imaging (TAI) combines the advantages of both microwave and ultrasound imaging techniques. In the current study, a three-dimensional novel numerical simulation of TAI phenomenon as a multi-physics problem is investigated. In the computational domain, a biological breast tissue including three different tissue types along with a tumor is placed in a tank containing castor oil and is irradiated by a 2.45-GHz pulsed microwave source from a rectangular waveguide. The generated heat in the biological tissue due to the electromagnetic wave irradiation and its corresponding pressure gradient in the tissue because of the temperature variations are evaluated. Also, capability of the MITAI process with respect to the tumor location and size is investigated. To identify the required power level needed for producing thermoacoustic signals, different power levels of microwave sources are investigated. The study’s results demonstrate a minuscule increase in temperature as a result of the absorption of pulsed microwave energy (for example, a maximum of 0.002472 °C temperature increase in tumor with 1 cm diameter which is located in fatty tissue of breast are obtained due to an excitation pulse of 1000 W, 1 ms). This small temperature variation in the tumor produces several kilopascals of pressure variations with maximum of 0.584016 kPa in tumor. This pressure variation will produce acoustic signals, which can be detected with an array of transducers and be used for image construction. Results demonstrate that the location of tumor in breast plays a vital role on the detecting performance of MITAI. Also, it is shown that very small tumors (with the diameter of 0.5 cm) can also be detected using MITAI technique. These simulations and procedures can be used for determining the amount of produced pressure variation, the acoustic pressure magnitude, and other complicated geometries.</p></span></ul>
+<p align="justify"><b>Abstract:</b> An array of unbiased pulsed GaN-based terahertz emitters based on excitation of different waveguide modes in the metallic contact grating is proposed and simulated for the first time. The proposed emitter consists asymmetric metal semiconductor-metal, so dissimilar Schottky contacts induce internal electric field that accelerates the photogenerated carriers. Furthermore, by taking advantage of plasmonic cavity modes for specific dimensions of the emitter array, it is shown that THz photocurrent can be enhanced about 5 times in comparison with the unbiased emitter array of the same area. We demonstrate that, for appropriate dimensions of the top metal contact in such a THz emitter array, the first order guided modes of the sub-wavelength nano-slit waveguides will be formed between two adjusted metal contacts, which leading to an enhanced optical absorption and the consequent THz photocurrent in the active region. Finally, we have designed a THz antenna with maximum gain of 6.5, and bandwidth of 400 GHz, which is coupled to the proposed THz emitter array to improve the output radiation power.</p></span></ul>
 
 <script>
 function myFunction4() {
@@ -143,11 +143,12 @@ function myFunction4() {
 
 
    <ul>
-     <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical investigation of the effect of stack geometrical parameters and thermo-physical properties on performance of a standing wave thermoacoustic refrigerator </a>
-<br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Applied Thermal Engineering, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: #B509AC; text-decoration:none;" target="\_blank">Switchable abnormal THz wave reflector based on molybdenum disulfide (MoS2)</a>
+<br><strong>Erfan Dejband</strong>,Hamidreza Karami,Pouya Torkaman, Manouchehr Hosseini,<br><em> International Conference on Millimeter-Wave and Terahertz Technologies (MMWaTT), 2018,<b>DIO: </b><a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/MMWaTT.2018.8661233
+</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: blue; text-decoration:none;" target="\_blank">Elsevier</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036995/Numerical.investigation.of.the.effect.of.stack.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8661233" style="color: blue; text-decoration:none;" target="\_blank">IEEE</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8661233&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzg2NjEyMzM=" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
 
  
@@ -161,11 +162,11 @@ function myFunction4() {
  </script>
  
  <p align="center">
-  <img width="688" height="296" src="https://user-images.githubusercontent.com/117890455/202597277-e93a8cda-4055-46cb-bc3d-158ae935de50.png">
+  <img width="688" height="296" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs4.png?raw=true">
 </p>
 
 
-<p align="justify"><b>Abstract:</b> A thermoacoustic cooler uses sound waves to transfer heat from a cold to a hot region. The stack operates as a medium of this heat transfer and plays a vital role in the cooling performance of these systems. The present study was conducted to investigate the effect of geometrical parameters and thermophysical properties of the stack on the cooling performance of a standing wave thermoacoustic refrigerator and determine most efficient stack geometry and the material. The geometrical parameters studied are the thickness and length of stack plates and the distance between them. The thermophysical properties studied are heat capacity and thermal conductivity of stack plate. To investigate the effects of these parameters, various samples were numerically analyzed in 2D space by the use of COMSOL software. Simulation results demonstrate that reducing thickness and thermal conductivity of the stack plates lead to lower cooling temperatures and higher coefficients of performance (COPs) at an equal temperature difference. Moreover, there are optimum values for the amount of distance between two stack plates and length of the stack, in which a lower cooling temperature and higher COP at equal temperature difference will be obtained. The lowest cooling temperature obtained in simulated samples is approximately −12 °C.</p></span></ul>
+<p align="justify"><b>Abstract:</b> Recently Controlling the electromagnetic wave, especially in terahertz range is highly demanded due to the development of practical devices and application systems. In this paper, we propose a scheme to design tunable abnormal reflection structure consisting of molybdenum disulfide (MoS 2 ) array on a grounded SiO 2 and a gold layer beneath them to reflect the terahertz wave. In this structure, MoS 2 can be controlled by intrinsic carrier density or voltage bias, to control the electromagnetic reflected beam at terahertz frequency. By adjusting the geometric dimensions of the MoS 2 elements, the reflection phase can cover the range of 0-2π with linear phase shift, thus abrupt phase shifts can be introduced to design the reflected wavefront. Furthermore, the reflective phase gradient over the structure can be switched by controlling the intrinsic carrier density or voltage bias of the MoS 2 , hence reflected beam directions can be switched dynamically. The proposed scheme will bring much freedom in the design of beam manipulation devices and may be applied to terahertz radiation control. Numerical simulations verify the Snell's law generalized at working frequency and far field scattering illustrate the abnormal reflection..</p></span></ul>
 
 <script>
 function myFunction5() {
