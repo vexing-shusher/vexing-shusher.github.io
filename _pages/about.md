@@ -23,8 +23,8 @@ My research interests lie primarily in application of Deep learning in optoelect
   <img width="500" height="265" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/about_gif.gif?raw=true">
 </p>
  
-<div class="News"><i class='fas fa-newspaper'></i>
-<h2>News</h2>
+<div class="News">
+<h2><i class='fas fa-newspaper'></i>News</h2>
         <ul>
           <li align="justify"><b>November 2022:</b> My research paper, <i>"Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System"</i>, is published in the <b>Photonics</b> journal. </li>
           <li align="justify"><b>October 2021:</b> My research paper, <i>"Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning"</i>, is published in the <b>IEEE Wireless and Optical Communications Conference (WOCC)</b> journal. </li>
