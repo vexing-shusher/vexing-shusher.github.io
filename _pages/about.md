@@ -23,24 +23,6 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
   <img width="500" height="265" src="https://www.securityindustry.org/wp-content/uploads/2019/02/blog-machines-learning.jpg">
 </p>
  
-<header class="post-header">
-<h2 class="post-title">Featured Publications</h2>
-</header>
-
-<table style="width:100%">
-  <tr>
-    <th>
-      <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9601160/9602862/9602997/dejba1-p21-dejband-large.gif" width="200"/>
-    </th>
-    <th style="text-align:left">
-             <span style="font-size:14px">Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning</span><br><br>
-            <span style="font-size:13px">Erfan Dejband<span style="font-weight:normal">,Jyun-Wei Li, Peng-Chun Peng, and Tan-Hsu Tan</span></span><br><br>
-     <span style="font-weight:normal;font-size:13px">IEEE Wireless and Optical Communications Conference (WOCC), 2021</span><br><br>
- <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: red; text-decoration:none;" target="\_blank">PDF</a>
-    </th>
-  </tr>    
-</table>
-
 <div class="News">
 <h2>News</h2>
         <ul>
