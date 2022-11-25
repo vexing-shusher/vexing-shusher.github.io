@@ -194,7 +194,7 @@ function myFunction5() {
 </a>.</em></li>
 
 
-<p><i class="fas fa-crown" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8120446&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgxMjA0NDY=" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/8120446" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8120446&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgxMjA0NDY=" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
 
  
@@ -232,16 +232,15 @@ function myFunction6() {
 }
 </script>
 
-
+<h1 class="year">2017</h1>
 
  <ul>
-     <li><a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" style="color: #B509AC; text-decoration:none;" target="\_blank">Evaluation of the effect of inner and outer transverse and longitudinal grooves on energy absorption characteristics of cylindrical thin-walled tubes under quasi-static axial load</a>
-<br>Ali Alavi Nia, <strong>Reza Rahpeima</strong>, Saber Chahardoli, and iman Nateghi<br><em>International Journal of Crashworthiness, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
+     <li><a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: #B509AC; text-decoration:none;" target="\_blank">Multi resonance perfect absorber based on graphene micro ribbons</a>
+<br>Majid Roshanaei, <strong>Erfan Dejband</strong> Hamidreza Karami, Reza Parvaz<br><em>International Conference on Metamaterials, Photonic Crystals and Plasmonics, 2016,<b>DIO: </b><a href="https://raw.githubusercontent.com/ErfanDejband/ErfanDejband.github.io/master/files/Multi%20resonance%20perfect%20absorber%20based%20on%20graphene%20micro%20ribbons.pdf" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/Meta16.2016.24291390
+</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" style="color: blue; text-decoration:none;" target="\_blank">Taylor & Francis</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037157/Evaluation.of.the.effect.of.inner.and.outer.transverse.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction7()" id="myBtn7">Show Abstract</button></p>
- 
-
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://metaconferences.org/ocs/index.php/META16/META16" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://raw.githubusercontent.com/ErfanDejband/ErfanDejband.github.io/master/files/Multi%20resonance%20perfect%20absorber%20based%20on%20graphene%20micro%20ribbons.pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>DPF</strong></a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
 <span id="dots7"></span><span id="more7">
  
