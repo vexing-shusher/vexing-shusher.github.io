@@ -20,7 +20,7 @@ My research interests lie primarily in application of Deep learning in optoelect
 I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
 
 <p align="center">
-  <img width="500" height="265" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/about_gif.gif?raw=true">
+  <img width="500" height="265" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/about_gif%20(2).gif?raw=true">
 </p>
  
 <div class="News">
