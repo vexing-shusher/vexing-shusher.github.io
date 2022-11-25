@@ -11,10 +11,10 @@ author_profile: true
 
  <ul>
      <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System </a>
-<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI One, 2022, <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank">https://doi.org/10.3390/photonics9110869</a>.</em></li>
+<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank">https://doi.org/10.3390/photonics9110869</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank">Plos</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI<strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF<strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
@@ -49,64 +49,14 @@ function myFunction() {
 </script>
 
 
-
-<ul>
-     <li><a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: #B509AC; text-decoration:none;" target="\_blank">A numerical approach for optimization of the working fluid of a standing-wave thermo-acoustic refrigerator </a>
-<br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with Computers, 2022, doi:10.1007/s00366-022-01646-1.</em></li>
-
-
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn2">Show Abstarct</button></p>
- 
-
-<style>
-#more {display: none;}
-</style> 
- 
- 
-<span id="dots2"></span><span id="more2">
- 
- <script>
-  if (document.getElementById("dots2").style.display != "none"){
-  document.getElementById("dots2").style.display = "inline";
-  document.getElementById("more2").style.display = "none";
-  }
- </script>
- 
- <p align="center">
-  <img width="496" height="564" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
-</p>
-
-
-<p align="justify"><b>Abstract:</b> The development of refrigeration systems using thermo-acoustic technology is a novel solution for achieving environmentally friendly refrigerators. A full transient CFD method is introduced here that can resemble the whole thermo-acoustic phenomena along with its different governing physics as a whole. The working fluid contributes critically to the thermo-acoustic refrigerators’ cooling performance. In this paper, unlike previous researches, all different possible combinations of noble gases are considered and the performance of the refrigerator from both aspects of cooling temperature and COPR are investigated to determine the optimized gas mixture among all combinations. For this purpose, the effect of the sound intensity and the fluid’s Prandtl number as two key factors are investigated on the refrigeration performance. By considering a 2D-axisymmetric computational geometry resembling the real model, it is tried to attain results as reliable as possible. COMSOL software is used to perform the simulations. It is concluded that from the aspect of the cooling temperature, a sample with the highest sound intensity (pure He sample in this research) is the best. But, from the aspect of a higher COPR (relative coefficient of performance), a sample with the lowest Pr number (72%He–28%Xe sample in this research) would be the best. The lowest cooling temperature which is achieved by the pure He sample was about 273 K and the highest COPR which belongs to 72%He–28%Xe sample was approximately 0.335.</p></span></ul>
-
- 
-<script>
- function myFunction2() {
-  var dots = document.getElementById("dots2");
-  var moreText = document.getElementById("more2");
-  var btnText = document.getElementById("myBtn2");
- 
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Show Abstarct"; 
-    moreText.style.display = "none";
-  } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Hide Abstarct"; 
-    moreText.style.display = "inline";
-  }
-}
-</script>
-
-
-<h1 class="year">2020</h1>
+<h1 class="year">2021</h1>
 
  <ul>
-     <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720314395" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical study of microwave induced thermoacoustic imaging for initial detection of cancer of breast on anatomically realistic breast phantom </a>
-<br><strong>Reza Rahpeima</strong>, Madjid Soltani, and Farshad Moradi Kashkooli,<br><em>Computer Methods and Programs in Biomedicine, 2020, doi:10.1016/j.cmpb.2020.105606.</em></li>
+     <li><a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #B509AC; text-decoration:none;" target="\_blank">Prediction of THz Absorption and Inverse Design of Graphene-Based Metasurface Structure Using Deep Learning </a>
+<br><strong>Erfan Dejband</strong>,Jyun-Wei Li, Peng-Chun Peng, Tan-Hsu Tan<br><em>Wireless and Optical Communications Conference (WOCC), 2021,<a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1109/WOCC53213.2021.9602997</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720314395" style="color: blue; text-decoration:none;" target="\_blank">Elsevier</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036917/Numerical.anatomically.realistic.breast.phantom.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/9602997" style="color: blue; text-decoration:none;" target="\_blank"><strong>IEEE<strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036917/Numerical.anatomically.realistic.breast.phantom.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
  
 
  
