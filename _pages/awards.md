@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <ul>
-  <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i>  Awarded Ph.D. Full Scholarship (Merit-Based) from the National Taipei University of Technology (Taipei Tech) (two times), 2021 & 2022.
+  <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i>  Awarded Ph.D. Full Scholarship (Merit-Based) from the National Taipei University of Technology 2021- peresent.
   <ul><ul>
     <li> The highest award offered to NTUT international students.</li>
     </ul></ul>
