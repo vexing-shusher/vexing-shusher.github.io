@@ -15,21 +15,89 @@ redirect_from:
 
 
 <p> Hello and thanks for stopping by! <br>
+  
+  
+  
+  #light/datk
   <style>
-.dark-mode {
-  background-color: black;
+.toggle input[type='checkbox'] {
+    display: none;
+}
+
+.toggle label {
+    background-color: #777;
+    border: 2px solid #555;
+    border-radius: 50px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: all ease-in-out 0.3s;
+    width: 100px;
+    height: 50px;
+}
+.toggle label::after {
+    background-color: #555;
+    border-radius: 50%;
+    content: 'Dark';
+    text-align: center;
+    line-height: 2.3;
+    font-size: 18px;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    left: 2px;
+    top: 4px;
+    transition: all ease-in-out 0.3s;
+    width: 42px;
+    height: 42px;
+}
+.toggle input[type='checkbox']:checked ~ label {
+    background-color: #00a0fc;
+    border-color: #006dc9;
+}
+
+.toggle input[type='checkbox']:checked ~ label::after {
+    background-color: #0054b0;
+    transform: translateX(52px);
+    content: 'Light';
+}
+body {
+    background-color: #f5f7fa;
+}
+body.dark-theme {
+      background-color: black;
   color: white;
 }
 </style>
+<style>
+
+</style>
+</head>
 <body>
-<button onclick="myFunction()">Toggle dark mode</button>
+
+<p align="right"><div class="toggle" align="right">
+     <input type="checkbox" id="toggle" />
+    <label for="toggle" align="left"></label> 
+ </div></p>
+
+
 
 <script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
+const toggle = document.getElementById('toggle');
+const body = document.body;
+
+toggle.addEventListener('input', e => {
+    const isChecked = e.target.checked;
+
+    if (isChecked) {
+        body.classList.add('dark-theme');
+    } else {
+        body.classList.remove('dark-theme');
+    }
+});
 </script>
+
+#end it
   
 
 
