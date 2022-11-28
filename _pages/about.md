@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-<p> Hello and thanks for stopping by! <br>
+<p> Hello and thanks for stopping by! 
   
   
   
@@ -25,14 +25,14 @@ redirect_from:
 
 .toggle label {
     background-color: #777;
-    border: 2px solid #555;
-    border-radius: 50px;
+    border: 0.5px solid #555;
+    border-radius: 12.5px;
     cursor: pointer;
     display: inline-block;
     position: relative;
     transition: all ease-in-out 0.3s;
-    width: 100px;
-    height: 50px;
+    width: 25px;
+    height: 12.5px;
 }
 .toggle label::after {
     background-color: #555;
@@ -40,15 +40,15 @@ redirect_from:
     content: 'Dark';
     text-align: center;
     line-height: 2.3;
-    font-size: 18px;
+    font-size: 4.5px;
     cursor: pointer;
     display: inline-block;
     position: absolute;
-    left: 2px;
-    top: 4px;
+    left: 0.5px;
+    top: 1px;
     transition: all ease-in-out 0.3s;
-    width: 42px;
-    height: 42px;
+    width: 10px;
+    height: 10px;
 }
 .toggle input[type='checkbox']:checked ~ label {
     background-color: #00a0fc;
