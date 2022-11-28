@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erfan Dejband"
 title_separator          : "-"
 name                     : &name "Erfan Dejband"
-description              : <p align="justify"> &description "Research assistance at Wireless Communications Lab and Optoelectronic Signal Processing Lab, College of Electrical Engineering and Computer Science, National Taipei University of Technology , Taipei, Taiwan"
+description              : <p align="justify"> &description "Research assistance at Wireless Communications Lab and Optoelectronic Signal Processing Lab, College of Electrical Engineering and Computer Science, National Taipei University of Technology , Taipei, Taiwan"</p>
 url                      : https://erfandejband.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ErfanDejband/ErfanDejband.github.io"
