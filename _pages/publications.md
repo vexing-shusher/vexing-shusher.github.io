@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %}
 
 <ul style="list-style-type:circle;"></ul>
 
