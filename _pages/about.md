@@ -18,8 +18,7 @@ redirect_from:
   
   
   
-  #light/datk
-  <style>
+<style>
 .toggle input[type='checkbox'] {
     display: none;
 }
@@ -69,11 +68,6 @@ body.dark-theme {
   color: white;
 }
 </style>
-<style>
-
-</style>
-</head>
-<body>
 
 <p align="right"><div class="toggle" align="right">
      <input type="checkbox" id="toggle" />
@@ -97,7 +91,6 @@ toggle.addEventListener('input', e => {
 });
 </script>
 
-#end it
   
 
 
