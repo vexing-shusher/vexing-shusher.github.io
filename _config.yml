@@ -84,6 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : <p align="justify">"Research 10 assistance at Wireless Communications Lab and Optoelectronic Signal Processing Lab,
                     College of Electrical Engineering and Computer Science, National Taipei University of Technology , Taipei, Taiwan"</p>
+                    <style>
+                    body {
+                    height: 2000px;
+                    background: linear-gradient(90deg, #0fb8ad 20%, yellow 51%, red 75%);
+                    }
+                    </style>
   
 
   location         : "Taipei, Taiwan"
