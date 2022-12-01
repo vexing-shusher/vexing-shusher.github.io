@@ -45,7 +45,7 @@ permalink: /404.html
 
 .toggle input[type='checkbox']:checked ~ label::after {
     background-color: #0054b0;
-    transform: translateX(52px);
+    transform: translateX(26px);
     content: 'Light';
 }
 body {
@@ -57,10 +57,7 @@ body.dark-theme {
 }
 </style>
 
-<p align="right"><div class="toggle" align="right">
-     <input type="checkbox" id="toggle" />
-    <label for="toggle" align="left"></label> 
- </div></p>
+
 
 
 
@@ -81,7 +78,10 @@ toggle.addEventListener('input', e => {
 
   
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below.
+Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below.<p align="right"><div class="toggle" align="right">
+     <input type="checkbox" id="toggle" />
+    <label for="toggle" align="left"></label> 
+ </div></p>
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
