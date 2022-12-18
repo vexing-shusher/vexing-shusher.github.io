@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full resume from <a href="https://drive.google.com/file/d/14iMOOUQ5PDEduIXCQbqLYP7Npl2U9Fg6/view?usp=sharing" target="\_blank" style="color: #B509AC; text-decoration:none">here</a>.
-
+You can download my full resume from [here](https://github.com/ErfanDejband/ErfanDejband.github.io/files/10253332/CV_Erfan.Dejband_Latex1.pdf)
 
