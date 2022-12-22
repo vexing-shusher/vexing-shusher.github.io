@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erfan Dejband"
+title                    : "Yury Davydov"
 title_separator          : "-"
-name                     : &name "Erfan Dejband"
-description              : <p align="justify"> &description "Research assistance at Wireless Communications Lab and Optoelectronic Signal Processing Lab, College of Electrical Engineering and Computer Science, National Taipei University of Technology , Taipei, Taiwan"</p>
-url                      : https://erfandejband.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yury Davydov"
+description              : <p align="justify"> &description "Data scientist, receiving master's degree in mechanical engineering and automation at National Taipei University of Technology , Taipei, Taiwan"</p>
+url                      : https://vexing-shusher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ErfanDejband/ErfanDejband.github.io"
+repository               : "vexing-shusher/vexing-shusher.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,18 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erfan Dejband"
+  name             : "Yury Davydov"
   avatar           : "profile.png"
-  bio              : <p align="justify">"Research 19 assistance at Wireless Communications Lab and Optoelectronic Signal Processing Lab,
-                    College of Electrical Engineering and Computer Science, National Taipei University of Technology , Taipei, Taiwan"</p>
+  bio              : <p align="justify">"Data scientist, studying automation in conjunction with AI."</p>
 
   
 
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=St2T8QkAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "e.dejband@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=T5ZI8X4AAAAJ&hl=en"
+  email            : "davydov.workbox@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ErfanDejband"
+  github           : "vexing-shusher"
   google_plus      :
   keybase          :
   instagram        : #""
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "erfan-dejband"
-  orcid            : "https://orcid.org/0000-0002-0620-4536"
+  linkedin         : "https://www.linkedin.com/in/yury-davydov-a019a8233/"
+  orcid            : "https://orcid.org/0000-0002-8596-4196"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
