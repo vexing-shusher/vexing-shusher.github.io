@@ -7,9 +7,6 @@ author_profile: true
 
 <ul>
   <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Taiwan Ministry of Education (MOE) Scholarship, 2021-peresent.
-  <ul><ul>
-    <li> The highest award offered to NTUT international students.</li>
-    </ul></ul>
 </ul>
 
 <ul>
