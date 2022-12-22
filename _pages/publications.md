@@ -11,24 +11,20 @@ author_profile: true
 <h1 class="year">2022</h1> 
 
  <ul>
-     <li><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #B509AC; text-decoration:none;" target="\_blank">Utilizing a Tunable Delay Line Interferometer to Improve the Sensing Accuracy of an FBG Sensor System </a>
-<br><strong>Erfan Dejband</strong>, Cheng-Kai Yao, Yibeltal Chanie Manie, Po-Yang Huang, Hao-Kuan Lee, Tan-Hsu Tan, and Peng-Chun Peng<br><em>MDPI, 2022, <b> DIO: </b><a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: #091AB5; text-decoration:none;" target="\_blank"> 10.3390/photonics9110869</a>.</em></li>
+     <li><a href="https://www.mdpi.com/1424-8220/22/22/8846" style="color: #B509AC; text-decoration:none;" target="\_blank">Supervised object-specific distance estimation from monocular images for autonomous driving</a>
+<br><strong>Yury Davydov</strong>, Wen-Hui Chen, Yu-Chen Lin<br><em>MDPI, 2022, <b> DOI: </b><a href="https://www.mdpi.com/1424-8220/22/22/8846" style="color: #091AB5; text-decoration:none;" target="\_blank">10.3390/s22228846</a>.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2304-6732/9/11/869" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://mdpi-res.com/d_attachment/photonics/photonics-09-00869/article_deploy/photonics-09-00869.pdf?version=1668679145" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/1424-8220/22/22/8846" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/22/22/8846/pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
 </style> 
  
 <span id="dots"></span><span id="more">
- 
- <p align="center">
-  <img width="700" height="526" src="https://github.com/ErfanDejband/ErfanDejband.github.io/blob/master/images/abs1.png?raw=true">
-</p>
 
 
-<p align="justify"><b>Abstract:</b> This paper proposes a novel sensing system based on a tunable delay line interferometer. The tunable delay line interferometer has been used to interpret strain, bringing us high accuracy as well as tunability. The shifted wavelength of the fiber Bragg grating (FBG) sensor caused by the applied strain can be visualized by an optical power meter (OPM) instead of an optical spectrum analyzer (OSA) by converting it to a power change using a tunable delay line interferometer (TDI). Different free spectral ranges (FSRs) are assigned to the TDI to investigate the accuracy and operation range of the proposed system. Thus, we achieve high accuracy and sensitivity by adjusting the FSR to 0.47 nm. Experimental results show that the maximum output power variation corresponding to a strain of 10 με is about 0.9 dB when the FSR is set to 0.47 nm. The proposed system is also cost-effective regarding the equipment utilized for interrogation: a tunable delay line interferometer and an optical power meter.</p></span></ul>
+<p align="justify"><b>Abstract:</b> Accurate distance estimation is a requirement for advanced driver assistance systems (ADAS) to provide drivers with safety-related functions such as adaptive cruise control and collision avoidance. Radars and lidars can be used for providing distance information; however, they are either expensive or provide poor object information compared to image sensors. In this study, we propose a lightweight convolutional deep learning model that can extract object-specific distance information from monocular images. We explore a variety of training and five structural settings of the model and conduct various tests on the KITTI dataset for evaluating seven different road agents, namely, person, bicycle, car, motorcycle, bus, train, and truck. Additionally, in all experiments, a comparison with the Monodepth2 model is carried out. Experimental results show that the proposed model outperforms Monodepth2 by 15% in terms of the average weighted mean absolute error (MAE).</p></span></ul>
 
 
 <script>
@@ -49,7 +45,7 @@ function myFunction() {
 }
 </script>
 
-
+<!--
 <h1 class="year">2021</h1>
 
  <ul>
@@ -276,5 +272,6 @@ function myFunction7() {
   }
 }
 </script>
+--!>
 
 
