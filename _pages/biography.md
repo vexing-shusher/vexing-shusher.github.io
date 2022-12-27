@@ -8,10 +8,6 @@ redirect_from:
   - /autobiography
 ---
 
-<header class="post-header">
-<h1 class="post-title">Autobiography</h1>
-</header>
-
 In case you would like to know more about me, here is a brief account of my path so far.
 
 <h2>Early years</h2>
