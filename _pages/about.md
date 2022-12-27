@@ -42,7 +42,7 @@ redirect_from:
         <ul>
           <li align="justify"><i class='fas fa-pen-alt'></i><b>November 2022:</b> My research paper (together with Prof. Wen-Hui Chen and Prof. Yu-Chen Lin), <i>"Supervised object-specific distance estimation from monocular images for autonomous driving"</i>, was published in the <b>Sensors</b> journal (Q2). </li>
 <hr/>          
-          <li align="justify"><i class='fas fa-pen-alt'></i><b>November 2022:</b> My research paper (together with Prof. Wen-Hui Chen and Prof. Yu-Chen Lin), <i>"Monocular Supervised Metric Distance Estimation for Autonomous Driving Applications"</i>, was presented at the ICCAS-2022 conference in Busan, Republic of Korea. </li>
+          <li align="justify"><i class='fas fa-pen-alt'></i><b>November 2022:</b> My research paper (together with Prof. Wen-Hui Chen and Prof. Yu-Chen Lin), <i>"Monocular Supervised Metric Distance Estimation for Autonomous Driving Applications"</i>, was presented at the <strong>ICCAS-2022</strong> conference in Busan, Republic of Korea. </li>
 
 <hr/>
 </ul>
