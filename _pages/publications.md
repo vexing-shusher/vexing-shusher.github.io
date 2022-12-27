@@ -121,13 +121,48 @@ function myFunction2() {
 }
 </script>
 
+ <ul>
+     <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4229968" style="color: #B509AC; text-decoration:none;" target="\_blank">Memristor-Based Spiking Neural Network with Online Reinforcement Learning</a>
+      <br>Danila Vlasov, Anton Minnekhanov, Roman Rybka, Yury Davydov, Alexander Sboev, Alexey Serenko, Alexander Ilyasov, and Vyacheslav A. Demin.  <br><em>Available at SSRN 4229968, 2022. <b> DOI: </b><a href="" style="color: #091AB5; text-decoration:none;" target="\_blank">PREPRINT</a>.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4229968" style="color: blue; text-decoration:none;" target="\_blank"><strong>SSRN</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://papers.ssrn.com/sol3/Delivery.cfm/1df8e4b6-186a-454e-8f93-70cf7e036aee-MECA.pdf?abstractid=4229968&mirid=1" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction3()" id="myBtn">Show Abstract</button></p>
+ 
+<style>
+#more {display: none;}
+</style> 
+ 
+<span id="dots"></span><span id="more">
+
+
+<p align="justify"><b>Abstract:</b>Neural networks implemented in memristor-based hardware can provide fast and efficient in-memory computation, but traditional learning methods such as error back-propagation are hardly feasible in it. Spiking neural networks (SNNs) are highly promising in this regard, as their weights can be changed locally in a self-organized manner without demand for high-precision changes calculated with the use of information almost from the entire network. This problem is rather relevant for solving control tasks with neural-network reinforcement learning methods, as those are highly sensitive to any source of stochasticity in a model initialization, training, or decision-making procedure. This paper presents an online reinforcement learning algorithm, in which the change of connection weights is carried out after processing each environment state during interaction-with-environment data generation. Another novel feature of the algorithm is that it is applied to SNNs with memristor-based STDP-like learning rules. The plasticity functions are obtained from real memristors based on poly-p-xylylene and CoFeB-LiNbO$_3$ nanocomposite which were experimentally assembled and analyzed.The SNN is comprised of leaky integrate-and-fire neurons. Environmental states are encoded by timings of input spikes, and the control action is decoded by the first spike. The proposed learning algorithm solves the Cartpole benchmark task successfully. This result could be the first step toward implementing an real-time agent learning procedure in a continuous-time environment that can be run on neuromorphic systems with memristive synapses.</p></span></ul>
+
+
+<script>
+function myFunction3() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
 <h1 class="year">2021</h1>
 
  <ul>
      <li><a href="https://www.mdpi.com/2227-7390/9/24/3237" style="color: #B509AC; text-decoration:none;" target="\_blank">Modeling the Dynamics of Spiking Networks with Memristor-Based STDP to Solve Classification Tasks</a>
       <br>Alexander Sboev, Danila Vlasov, Roman Rybka, <strong>Yury Davydov</strong>, Alexey Serenko, Vyacheslav Demin<br><em>MDPI, 2022, <b> DOI: </b><a href="https://www.mdpi.com/2227-7390/9/24/3237" style="color: #091AB5; text-decoration:none;" target="\_blank">10.3390/math9243237</a>.</em></li>
  
- <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2227-7390/9/24/3237" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/2227-7390/9/24/3237/pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
+ <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/2227-7390/9/24/3237" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/2227-7390/9/24/3237/pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction4()" id="myBtn3">Show Abstract</button></p>
  
 <span id="dots3"></span><span id="more3">
 
@@ -141,7 +176,7 @@ function myFunction2() {
 <p align="justify"><b>Abstract:</b>The problem with training spiking neural networks (SNNs) is relevant due to the ultra-low power consumption these networks could exhibit when implemented in neuromorphic hardware. The ongoing progress in the fabrication of memristors, a prospective basis for analogue synapses, gives relevance to studying the possibility of SNN learning on the base of synaptic plasticity models, obtained by fitting the experimental measurements of the memristor conductance change. The dynamics of memristor conductances is (necessarily) nonlinear, because conductance changes depend on the spike timings, which neurons emit in an all-or-none fashion. The ability to solve classification tasks was previously shown for spiking network models based on the bio-inspired local learning mechanism of spike-timing-dependent plasticity (STDP), as well as with the plasticity that models the conductance change of nanocomposite (NC) memristors. Input data were presented to the network encoded into the intensities of Poisson input spike sequences. This work considers another approach for encoding input data into input spike sequences presented to the network: temporal encoding, in which an input vector is transformed into relative timing of individual input spikes. Since temporal encoding uses fewer input spikes, the processing of each input vector by the network can be faster and more energy-efficient. The aim of the current work is to show the applicability of temporal encoding to training spiking networks with three synaptic plasticity models: STDP, NC memristor approximation, and PPX memristor approximation. We assess the accuracy of the proposed approach on several benchmark classification tasks: Fisher’s Iris, Wisconsin breast cancer, and the pole balancing task (CartPole). The accuracies achieved by SNN with memristor plasticity and conventional STDP are comparable and are on par with classic machine learning approaches.</p></span></ul>
 
 <script>
-function myFunction3() {
+function myFunction4() {
   var dots = document.getElementById("dots3");
   var moreText = document.getElementById("more3");
   var btnText = document.getElementById("myBtn3");
