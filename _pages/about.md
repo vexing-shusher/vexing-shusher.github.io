@@ -28,14 +28,14 @@ redirect_from:
 </header>
 
 <ul>
-  <li><i class='fas fa-pen-alt'>Python for deep learning: NumPy, TensorFlow, PyTorch, and Scikit-Learn libraries. Have experience in building, training and evaluating complex models for classification and regression problems.</li>
-  <li><i class='fas fa-pen-alt'>Python for data processing: Pandas, Matplotlib, and Seaborn libraries. Have experience in processing large tabular, textual and image datasets (i.e. KITTI, nuScenes).</li>
-  <li><i class='fas fa-pen-alt'>Git: basic usage (creating a repository, commiting, creating pull requests).</li>
-  <li><i class='fas fa-pen-alt'>Slurm: basic usage (writing scripts, running processes on distributed computing systems).</li>
-  <li><i class='fas fa-pen-alt'>C/C++: basic usage (mainly used this language for writing computational physics models).</li>  
-  <li><i class='fas fa-pen-alt'>Matlab: basic usage (Matlab + Simulink for building simple control systems; Fuzzy Toolbox, ANN toolbox).</li>  
-   <li><i class='fas fa-pen-alt'>Soft skills: communication skills; capable of effectively presenting my work/research outcomes to a large audience; capable of writing research articles.</li>
-   <li><i class='fas fa-pen-alt'>Language skills: Russian (native), English (full proficiency, IELTS-2021: 8.0).</li>
+  <li><i class='fas fa-pen-alt'> <strong>Python</strong> for deep learning: <strong>NumPy</strong>, <strong>TensorFlow</strong>, <strong>PyTorch</strong>, and <strong>Scikit-Learn</strong> libraries. Have experience in building, training and evaluating complex models for classification and regression problems.</li>
+  <li><i class='fas fa-pen-alt'> <strong>Python</strong> for data processing: <strong>Pandas</strong>, <strong>Matplotlib</strong>, and <strong>Seaborn</strong> libraries. Have experience in processing large tabular, textual and image datasets (i.e. KITTI, nuScenes).</li>
+  <li><i class='fas fa-pen-alt'> <strong>Git</strong>: basic usage (creating a repository, commiting, creating pull requests).</li>
+  <li><i class='fas fa-pen-alt'> <strong>Slurm</strong>: basic usage (writing scripts, running processes on distributed computing systems).</li>
+  <li><i class='fas fa-pen-alt'> <strong>C/C++</strong>: basic usage (mainly used this language for writing computational physics models).</li>  
+  <li><i class='fas fa-pen-alt'> <strong>Matlab</strong>: basic usage (Matlab + Simulink for building simple control systems; Fuzzy Toolbox, ANN toolbox).</li>  
+   <li><i class='fas fa-pen-alt'> <strong>Soft skills</strong>: decent communication skills; capable of effectively presenting my work/research outcomes to a large audience; capable of writing research articles.</li>
+   <li><i class='fas fa-pen-alt'> <strong>Language</strong> skills: Russian (native), English (full proficiency, IELTS-2021: 8.0).</li>
 </ul>
   
 <header class="post-header">
