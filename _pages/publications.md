@@ -12,7 +12,7 @@ author_profile: true
 
  <ul>
      <li><a href="https://www.mdpi.com/1424-8220/22/22/8846" style="color: #B509AC; text-decoration:none;" target="\_blank">Supervised object-specific distance estimation from monocular images for autonomous driving</a>
-<br><strong>Yury Davydov</strong>, Wen-Hui Chen, Yu-Chen Lin<br><em>MDPI, 2022, <b> DOI: </b><a href="https://www.mdpi.com/1424-8220/22/22/8846" style="color: #091AB5; text-decoration:none;" target="\_blank">10.3390/s22228846</a>.</em></li>
+<br><strong>Yury Davydov</strong>, Wen-Hui Chen, Yu-Chen Lin<br><em>MDPI, 2022. <b> DOI: </b><a href="https://www.mdpi.com/1424-8220/22/22/8846" style="color: #091AB5; text-decoration:none;" target="\_blank">10.3390/s22228846</a>.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.mdpi.com/1424-8220/22/22/8846" style="color: blue; text-decoration:none;" target="\_blank"><strong>MDPI</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://www.mdpi.com/1424-8220/22/22/8846/pdf" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
@@ -29,6 +29,82 @@ author_profile: true
 
 <script>
 function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+ <ul>
+     <li><a href="https://aip.scitation.org/doi/abs/10.1063/5.0081608?journalCode=apc" style="color: #B509AC; text-decoration:none;" target="\_blank">Neural network data driven model of the process of analyzing control commands for a mobile robot in natural russian language</a>
+<br>Alexander Sboev, Roman Rybka, <strong>Yury Davydov<strong> and Ivan Moloshnikov<br><em>In AIP Conference Proceedings, vol. 2425, no. 1, p. 340004. AIP Publishing LLC, 2022. <b> DOI: </b><a href="https://doi.org/10.1063/5.0081608" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1063/5.0081608</a>.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://aip.scitation.org/doi/abs/10.1063/5.0081608?journalCode=apc" style="color: blue; text-decoration:none;" target="\_blank"><strong>AIP</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://aip.scitation.org/doi/pdf/10.1063/5.0081608" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction1()" id="myBtn">Show Abstract</button></p>
+ 
+<style>
+#more {display: none;}
+</style> 
+ 
+<span id="dots"></span><span id="more">
+
+
+<p align="justify"><b>Abstract:</b> The problem of controlling a robotic device in a natural environment, both of which are often very complex, seems extremely relevant. In particular, for English language this problem is highlighted in such works as [1],[2] and [3]. Here we present a neural network Data Driven model for Russian language solving multi-label classification task, that allows verbal features to be extracted from a natural text containing control commands with subsequent converting them directly into the format of control actions at the level of semiotic world of the robot. In Fig. 1 in the format of the paper [3](based on the approach presented in [4]) we present a graph that describes the possible movements of the robot and their attributes for a given model of the environment and the robot.</p></span></ul>
+
+
+<script>
+function myFunction1() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+ <ul>
+     <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-96993-6_48" style="color: #B509AC; text-decoration:none;" target="\_blank">A Comparison of Two Variants of Memristive Plasticity for Solving the Classification Problem of Handwritten Digits Recognition</a>
+      <br>Alexander Sboev, <strong>Yury Davydov</strong>, Roman Rybka, Danila Vlasov and Alexey Serenko <br><em>Biologically Inspired Cognitive Architectures Meeting, pp. 438-446. Springer, Cham, 2022. <b> DOI: </b><a href="https://doi.org/10.1007/978-3-030-96993-6_48" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1007/978-3-030-96993-6_48</a>.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/chapter/10.1007/978-3-030-96993-6_48" style="color: blue; text-decoration:none;" target="\_blank"><strong>Springer</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://link.springer.com/content/pdf/10.1007/978-3-030-96993-6_48.pdf?pdf=inline%20link" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction2()" id="myBtn">Show Abstract</button></p>
+ 
+<style>
+#more {display: none;}
+</style> 
+ 
+<span id="dots"></span><span id="more">
+
+
+<p align="justify"><b>Abstract:</b> Nowadays, the task of creating and training spiking neural networks (SNN) is extremely relevant due to their high energy efficiency achieved by implementing such networks via neuromorphic hardware.
+
+Especially interesting is the possibility of building SNNs based on memristors, which have properties that potentially allow them to be used as analog synapses. With that in mind, it seems relevant to study spike networks built upon plasticity rules that correspond to the experimentally observed nonlinear laws of conductivity change in memristors.
+
+Earlier it was shown that spiking neural networks trained with a biologically inspired local STDP (Spike-Timing-Dependent Plasticity) rule are capable of solving classification problems successfully. In addition, it was also demonstrated that classification problems can also be solved with spiking neural networks operating with a plasticity rule that models the change in conductivity in nanocomposite (NC) memristors.
+
+This paper presents a continuation of the study of the applicability of memristive plasticity rules on the handwritten digit recognition problem. Two types of memristive plasticity are compared: for nanocomposite and PPX memristors. It is shown that both models can successfully solve the classification problem, and the key differences between them are identified.</p></span></ul>
+
+
+<script>
+function myFunction2() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
   var btnText = document.getElementById("myBtn");
