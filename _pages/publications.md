@@ -47,7 +47,7 @@ function myFunction() {
 
  <ul>
      <li><a href="https://aip.scitation.org/doi/abs/10.1063/5.0081608?journalCode=apc" style="color: #B509AC; text-decoration:none;" target="\_blank">Neural network data driven model of the process of analyzing control commands for a mobile robot in natural russian language</a>
-<br>Alexander Sboev, Roman Rybka, <strong>Yury Davydov<strong> and Ivan Moloshnikov<br><em>In AIP Conference Proceedings, vol. 2425, no. 1, p. 340004. AIP Publishing LLC, 2022. <b> DOI: </b><a href="https://doi.org/10.1063/5.0081608" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1063/5.0081608</a>.</em></li>
+<br>Alexander Sboev, Roman Rybka, <strong>Yury Davydov</strong> and Ivan Moloshnikov<br><em>In AIP Conference Proceedings, vol. 2425, no. 1, p. 340004. AIP Publishing LLC, 2022. <b> DOI: </b><a href="https://doi.org/10.1063/5.0081608" style="color: #091AB5; text-decoration:none;" target="\_blank">10.1063/5.0081608</a>.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://aip.scitation.org/doi/abs/10.1063/5.0081608?journalCode=apc" style="color: blue; text-decoration:none;" target="\_blank"><strong>AIP</strong></a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://aip.scitation.org/doi/pdf/10.1063/5.0081608" style="color: red; text-decoration:none;" target="\_blank"><strong>PDF</strong></a> | <button onclick="myFunction1()" id="myBtn">Show Abstract</button></p>
