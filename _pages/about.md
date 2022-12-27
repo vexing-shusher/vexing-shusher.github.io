@@ -44,7 +44,7 @@ redirect_from:
 
 <ul>
   <li> Developing a neural network model for <strong>pedestrian trajectory prediction</strong> from monocular image stream (at National Taipei University of Technology, under the supervision of Prof. Wen-Hui Chen).</li>
-  <li> Developing methods of classifying image and sound data using <stong>Spiking neural networks</strong> trained with local plasticity rules (in collaboration with NRC "Kurchatov Institute", Neuromorphic Algorithms Group).</li>
+  <li> Developing methods of classifying image and sound data using <strong>Spiking neural networks</strong> trained with local plasticity rules (in collaboration with NRC "Kurchatov Institute", Neuromorphic Algorithms Group).</li>
 </ul>
   
 
