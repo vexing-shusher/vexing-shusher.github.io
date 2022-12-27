@@ -24,6 +24,21 @@ redirect_from:
   I am passionate about Deep Learning in general and its applications to autonomous systems and robotics in particular. My other interests include spiking neural networks, neuromorphic hardware and control in conjunction with AI.
   
 <header class="post-header">
+<h1 class="post-title">My skills</h1>
+</header>
+
+<ul>
+  <li><i class='fas fa-pen-alt'>Python for deep learning: NumPy, TensorFlow, PyTorch, and Scikit-Learn libraries. Have experience in building, training and evaluating complex models for classification and regression problems.</li>
+  <li><i class='fas fa-pen-alt'>Python for data processing: Pandas, Matplotlib, and Seaborn libraries. Have experience in processing large tabular, textual and image datasets (i.e. KITTI, nuScenes).</li>
+  <li><i class='fas fa-pen-alt'>Git: basic usage (creating a repository, commiting, creating pull requests).</li>
+  <li><i class='fas fa-pen-alt'>Slurm: basic usage (writing scripts, running processes on distributed computing systems).</li>
+  <li><i class='fas fa-pen-alt'>C/C++: basic usage (mainly used this language for writing computational physics models).</li>  
+  <li><i class='fas fa-pen-alt'>Matlab: basic usage (Matlab + Simulink for building simple control systems; Fuzzy Toolbox, ANN toolbox).</li>  
+   <li><i class='fas fa-pen-alt'>Soft skills: communication skills; capable of effectively presenting my work/research outcomes to a large audience; capable of writing research articles.</li>
+   <li><i class='fas fa-pen-alt'>Language skills: Russian (native), English (full proficiency, IELTS-2021: 8.0).</li>
+</ul>
+  
+<header class="post-header">
 <h1 class="post-title">Current projects</h1>
 </header>
 
