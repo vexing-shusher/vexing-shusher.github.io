@@ -22,6 +22,15 @@ redirect_from:
   <br>
   My name is Yury Davydov. Currently I am a Master's Degree student at National Taipei University of Technology, International Master's Program in Automation and Engineering. I am working on developing neural network modules for autonomous vehicles under the supervision of Professor Wen-Hui Chen in the Intelligent Systems Lab (since Feb. 2022). 
   I am passionate about Deep Learning in general and its applications to autonomous systems and robotics in particular. My other interests include spiking neural networks, neuromorphic hardware and control in conjunction with AI.
+  
+<header class="post-header">
+<h1 class="post-title">Current projects</h1>
+</header>
+
+<ul>
+  Developing a neural network model for pedestrian trajectory prediction from monocular image stream (at National Taipei University of Technology, under the supervision of Prof. Wen-Hui Chen).
+</ul>
+  
 
 <p align="center">
   <img src="https://github.com/vexing-shusher/vexing-shusher.github.io/blob/master/images/about_gif.gif?raw=true">
