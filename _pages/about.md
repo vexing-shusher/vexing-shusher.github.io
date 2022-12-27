@@ -28,14 +28,14 @@ redirect_from:
 </header>
 
 <ul>
-  <li><i class='fas fa-pen-alt'> <strong>Python</strong> for deep learning: <strong>NumPy</strong>, <strong>TensorFlow</strong>, <strong>PyTorch</strong>, and <strong>Scikit-Learn</strong> libraries. Have experience in building, training and evaluating complex models for classification and regression problems.</li>
-  <li><i class='fas fa-pen-alt'> <strong>Python</strong> for data processing: <strong>Pandas</strong>, <strong>Matplotlib</strong>, and <strong>Seaborn</strong> libraries. Have experience in processing large tabular, textual and image datasets (i.e. KITTI, nuScenes).</li>
-  <li><i class='fas fa-pen-alt'> <strong>Git</strong>: basic usage (creating a repository, commiting, creating pull requests).</li>
-  <li><i class='fas fa-pen-alt'> <strong>Slurm</strong>: basic usage (writing scripts, running processes on distributed computing systems).</li>
-  <li><i class='fas fa-pen-alt'> <strong>C/C++</strong>: basic usage (mainly used this language for writing computational physics models).</li>  
-  <li><i class='fas fa-pen-alt'> <strong>Matlab</strong>: basic usage (Matlab + Simulink for building simple control systems; Fuzzy Toolbox, ANN toolbox).</li>  
-   <li><i class='fas fa-pen-alt'> <strong>Soft skills</strong>: decent communication skills; capable of effectively presenting my work/research outcomes to a large audience; capable of writing research articles.</li>
-   <li><i class='fas fa-pen-alt'> <strong>Language</strong> skills: Russian (native), English (full proficiency, IELTS-2021: 8.0).</li>
+  <li> <strong>Python</strong> for deep learning: <strong>NumPy</strong>, <strong>TensorFlow</strong>, <strong>PyTorch</strong>, and <strong>Scikit-Learn</strong> libraries. Have experience in building, training and evaluating complex models for classification and regression problems.</li>
+  <li> <strong>Python</strong> for data processing: <strong>Pandas</strong>, <strong>Matplotlib</strong>, and <strong>Seaborn</strong> libraries. Have experience in processing large tabular, textual and image datasets (i.e. KITTI, nuScenes).</li>
+  <li> <strong>Git</strong>: basic usage (creating a repository, commiting, creating pull requests).</li>
+  <li> <strong>Slurm</strong>: basic usage (writing scripts, running processes on distributed computing systems).</li>
+  <li> <strong>C/C++</strong>: basic usage (mainly used this language for writing computational physics models).</li>  
+  <li> <strong>Matlab</strong>: basic usage (Matlab + Simulink for building simple control systems; Fuzzy Toolbox, ANN toolbox).</li>  
+   <li> <strong>Soft skills</strong>: decent communication skills; capable of effectively presenting my work/research outcomes to a large audience; capable of writing research articles.</li>
+   <li> <strong>Language skills</strong>: Russian (native), English (full proficiency, IELTS-2021: 8.0).</li>
 </ul>
   
 <header class="post-header">
@@ -43,8 +43,8 @@ redirect_from:
 </header>
 
 <ul>
-  <li><i class='fas fa-pen-alt'> Developing a neural network model for pedestrian trajectory prediction from monocular image stream (at National Taipei University of Technology, under the supervision of Prof. Wen-Hui Chen).</li>
-  <li><i class='fas fa-pen-alt'> Developing methods of classifying image and sound data using Spiking neural networks trained with local plasticity rules (in collaboration with NRC "Kurchatov Institute", Neuromorphic Algorithms Group).</li>
+  <li> Developing a neural network model for <strong>pedestrian trajectory prediction</strong> from monocular image stream (at National Taipei University of Technology, under the supervision of Prof. Wen-Hui Chen).</li>
+  <li> Developing methods of classifying image and sound data using <stong>Spiking neural networks</strong> trained with local plasticity rules (in collaboration with NRC "Kurchatov Institute", Neuromorphic Algorithms Group).</li>
 </ul>
   
 
