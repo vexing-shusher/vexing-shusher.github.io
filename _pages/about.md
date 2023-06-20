@@ -55,6 +55,8 @@ redirect_from:
 <div class="News">
 <h2><i class='fas fa-newspaper'></i>News</h2>
         <ul>
+                    <li align="justify"><i class='fas fa-pen-alt'></i><b>June 2023:</b> Successefully defended my Master's Degree Thesis <strong>"Object-Specific Distance Estimation from Monocular Images for Autonomous Driving"</strong> written under the supervision of Prof. Wen-Hui Chen (average score: <strong>95/100</strong>). </li>
+<hr/>  
           <li align="justify"><i class='fas fa-pen-alt'></i><b>February 2023:</b> Accepted as an intern (Intelligent Vision) to <strong>VIA Technologies, Inc.</strong> </li>
 <hr/>            
           <li align="justify"><i class='fas fa-pen-alt'></i><b>November 2022:</b> My research paper (together with Prof. Wen-Hui Chen and Prof. Yu-Chen Lin), <i>"Supervised object-specific distance estimation from monocular images for autonomous driving"</i>, was published in the <b>Sensors</b> journal (Q2). </li>
